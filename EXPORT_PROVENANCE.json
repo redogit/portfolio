@@ -1,0 +1,575 @@
+{
+  "schema": "scoped-repository-export/v1",
+  "workspace": "portfolio",
+  "status": "candidate-not-cleared-for-publication",
+  "source_history": "Original checkouts and commits retained unchanged; this is a scoped snapshot, not rewritten history.",
+  "scope": {
+    "id": "portfolio",
+    "name": "Portfolio",
+    "purpose": "Cross-project navigation, coordination, and planning",
+    "repositories": [
+      "redogit",
+      "Other-Projects-",
+      "conscience64"
+    ],
+    "source_roots": [
+      "redogit/plan-authority",
+      "redogit/docs",
+      "Other-Projects-/docs/navigation/bridges",
+      "conscience64/research/projects"
+    ],
+    "entry_points": [
+      "redogit/README.md",
+      "redogit/docs/navigation/WORK_INDEX.md",
+      "redogit/docs/navigation/ACTIVE_PROJECTS.md",
+      "conscience64/research/projects/README.md",
+      "Other-Projects-/docs/navigation/PROJECT_ROUTING.md"
+    ],
+    "organization_action": "Maintain navigation across independent project homes; add no generic metadata to DnD",
+    "workspace_directory": "redogit/workspaces/portfolio"
+  },
+  "files": [
+    {
+      "path": "redogit/README.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "77f1c1ffbd417707cb85f11d0032a6cc341674ef",
+      "mode": "100644",
+      "sha256": "d0076dc0e336b2a67df9b1b17d116dbadba68ebff525f403d41fc6094cd4ce51"
+    },
+    {
+      "path": "redogit/docs/.nojekyll",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "mode": "100644",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "redogit/docs/about.html",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "3ae3fe1efe3241b2cdc8a37847e7a4ced7d9ca88",
+      "mode": "100644",
+      "sha256": "e0db80c5945f4d74142e142d5bd1a4702cc25e8b15a423ac823c0a1bc8c8d979"
+    },
+    {
+      "path": "redogit/docs/condensed-wisdom.html",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "6b294f04d594f3c2f408f7e572a251ce2b0e369f",
+      "mode": "100644",
+      "sha256": "8244e9e047eea1798dc33efa6e3eafc5f171ce40f1ea28148046f7c3d3aaefe6"
+    },
+    {
+      "path": "redogit/docs/coordination/ALL_DIRECTIONAL_RELATIONAL_FIELD_2026-09-20.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "66ecfb881045be1d707476d2e5227b1a786194e8",
+      "mode": "100644",
+      "sha256": "7dfa2f512fba2f3feaf59341bde01681b93f820f1cf5332cf8fcfa4422e4bb4b"
+    },
+    {
+      "path": "redogit/docs/coordination/BIDIRECTIONAL_HANDOFF_PROTOCOL_2026-09-20.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "a83ce19577ec179ef446b3eebf898f26c40635b5",
+      "mode": "100644",
+      "sha256": "012b49041fb57decb03fc8593af9227e5aa1239d8b663f24466adbe613b0e091"
+    },
+    {
+      "path": "redogit/docs/coordination/COOPERATIVE_IMPLEMENTATION_PROTOCOL_2026-09-19.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "5ab6cba09ed57450f9552ad352e284ed249c4fe4",
+      "mode": "100644",
+      "sha256": "3063e2720247852fcbc42c50360327e5c92a13055149fd3368bfb9e6186f1b1b"
+    },
+    {
+      "path": "redogit/docs/coordination/GITHUB_CONVERGENCE_PLAN_2026-09-18.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "394ade812cca09b1ff954fe38687b8a0cc0cb3b4",
+      "mode": "100644",
+      "sha256": "5469f329eca9d6442fb3969eb02ac4e0380c594f8f8604fa8ae6d98bacf225f5"
+    },
+    {
+      "path": "redogit/docs/coordination/GITHUB_CONVERGENCE_RESULT_2026-09-18.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "4886f14f3433875317fd3bdc401d29ffcf829cb2",
+      "mode": "100644",
+      "sha256": "b822b18adb6af92963d2149ce84872965aaac43722943ec80d3697c3e1a68b8d"
+    },
+    {
+      "path": "redogit/docs/coordination/GOAL_TOPOLOGY_2026-09-15.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "60f93fd250159817a1e6fa7d619483cf15c1032d",
+      "mode": "100644",
+      "sha256": "78c91ad3811a9b560392403e173bddd38d263693297460a3d5c42008eae2d0e7"
+    },
+    {
+      "path": "redogit/docs/coordination/HIGHEST_VIEW_PLAN_ALIGNMENT_2026-09-20.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "805e3e09b422ffe4b3708765206d90d7c73b2b74",
+      "mode": "100644",
+      "sha256": "8accb68dd24296dad38ce5851b9cb68ef1522f78a78169dc6058101b19b9e39b"
+    },
+    {
+      "path": "redogit/docs/coordination/LIBRARY_PATTERN_FEDERATION_2026-09-16.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "6da1cc08d7a6b8e1aaf6aa1d5ea4d9d5f6898293",
+      "mode": "100644",
+      "sha256": "c9d7a63d4948a0f9c121fda64216bef2ee0016dd25a1aae6ec0d164db4f05ed3"
+    },
+    {
+      "path": "redogit/docs/dream-to-action/PUBLISHING.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "9418dcf26710291b332e827922c5f95492828861",
+      "mode": "100644",
+      "sha256": "bb5d71596c590e0b484371d577f02cb9f722d46430e1a99e9fd3f5ab7090a66c"
+    },
+    {
+      "path": "redogit/docs/dream-to-action/SOURCE.json",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "b782a28d83a9bd1ca42f83be49cf63be100e5ae4",
+      "mode": "100644",
+      "sha256": "e1e000fdc4261bcd262fd24ee48219cb01388c0fd21d962776627430e6fd05cb"
+    },
+    {
+      "path": "redogit/docs/dream-to-action/index.html",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "0b9cbf2eaf2766652378e6667949bcba1383a106",
+      "mode": "100644",
+      "sha256": "231fdadb14093df1028abe015f3c4d583b1031da5ae03048abff5244c3eac807"
+    },
+    {
+      "path": "redogit/docs/index.html",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "48116494c7aab68db4f90c500b3ed9398bb632a1",
+      "mode": "100644",
+      "sha256": "41f98ddf91c87f4dff1a9af17c8a2a1b1402c9f87cfac252a5c7ac5aa5a97c6a"
+    },
+    {
+      "path": "redogit/docs/live-design.html",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "899ec12fc768c3bc0d2151f30017255f43b79ee2",
+      "mode": "100644",
+      "sha256": "787ef9586ab1162848807e58e1e794a7544b626820072a8b38a585a6aa97fb9a"
+    },
+    {
+      "path": "redogit/docs/navigation/ACTIVE_PROJECTS.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "7276bba315a11d3207ba926c1ab4a0c9bc79d60f",
+      "mode": "100644",
+      "sha256": "91112ca8f9107960487129a13decd0a897f24080ae5d796cefcd18e72010ed6e"
+    },
+    {
+      "path": "redogit/docs/navigation/RESEARCH_PRODUCTION.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "a020fc41bce983b789a623f2a46a47e29540bce4",
+      "mode": "100644",
+      "sha256": "995e86754d585e7c521295e7fa095109bb26176c935fa6148d8f54aa026bb896"
+    },
+    {
+      "path": "redogit/docs/navigation/WORK_INDEX.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "7f868898b763be3378bae6200d6d41e68115017a",
+      "mode": "100644",
+      "sha256": "08b1a6f4d66fd78f535fdd2ae9535c1f7c325791eac3661ccfee21a195e2ee52"
+    },
+    {
+      "path": "redogit/docs/navigation/history-playground/HISTORY_PLAYGROUND_10_STEP_CHECKIN.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "dba7914c1a1113039d04831efd7d7e83546813f2",
+      "mode": "100644",
+      "sha256": "9591b0502fc223a75ee1d33604bc7e6a951960f40ef6b8511938cca3d015b8e4"
+    },
+    {
+      "path": "redogit/docs/navigation/history-playground/HISTORY_PLAYGROUND_CHECKIN_STATUS.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "cec43212fc29edd5fb56e08d19522d9e5e9a629f",
+      "mode": "100644",
+      "sha256": "e47ac3141d7d719f9eb5e1f2d91182e3df68cae7f574b23240a906c75b92bc3e"
+    },
+    {
+      "path": "redogit/docs/organization/README.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "9d4cb1960f143b0990b59249ec64f7405c7ca7a0",
+      "mode": "100644",
+      "sha256": "07e687402e8e99075d5700f4197646cffffdf8022a54c05571a2faee65a14ea7"
+    },
+    {
+      "path": "redogit/docs/organization/layout.json",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "044573729561246bad00250262cb3951495779d8",
+      "mode": "100644",
+      "sha256": "2abbc896e46049034edbabde15872e8239a8cbd64767f487f252d2b2ec2de45f"
+    },
+    {
+      "path": "redogit/docs/organization/migration.json",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "bade0700a64ed2918f754a87cadcdfb83c308b65",
+      "mode": "100644",
+      "sha256": "6ecb0066dd643b2eade9d48d78479d40d1a586725ea19535a0fa592a3284d42d"
+    },
+    {
+      "path": "redogit/docs/organization/verification.json",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "ea133b28e70b530c2647458e891a6ad356f5f65c",
+      "mode": "100644",
+      "sha256": "fefbcbcfbba9b2a3bbe6b1dcf271d3e3811a6ef5ed1406c0795dcd8fd23eab15"
+    },
+    {
+      "path": "redogit/docs/orientation/ALGORITHMIC_CONDENSED_WISDOM_ANALYSIS_2026-09-25.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "64b2989cf4f07f9c6576cc830a8af1b629f65495",
+      "mode": "100644",
+      "sha256": "e714f88f8d93d546c2f414c060ff14ec96ce388618fcedbe129e12819f252b46"
+    },
+    {
+      "path": "redogit/docs/orientation/RMAL_RESEARCH_ORIENTATION_2026-09-25.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "3de23478622f674ec9d8f3e5439bcd58774119c5",
+      "mode": "100644",
+      "sha256": "f1f4e03324689aa98b7e4f13a9dc70429c8b322fcc98107655fda5451204332f"
+    },
+    {
+      "path": "redogit/docs/orientation/RMAO_WORLD_SUCCESSOR_2026-09-18.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "8b3d0ac089ec5e7fbec208168b9006ab22fa83d7",
+      "mode": "100644",
+      "sha256": "e19a4da84db64c35179164f9080fee432d2c2fd44a856e9a40d9ccfc63071909"
+    },
+    {
+      "path": "redogit/docs/recent-work.html",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "dc69235f15de9c26034997b612deedfbd4915ad5",
+      "mode": "100644",
+      "sha256": "7a6bbd257bf1538aaffe9999ce465545582113c21f86d125471a7e90b0245a03"
+    },
+    {
+      "path": "redogit/docs/superpowers/plans/2026-09-30-workspace-organization.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "7ddc134a8b0d2ff2420f37755e1d4c1141f0b1eb",
+      "mode": "100644",
+      "sha256": "74d9644b459361f968437689ba1e9f347c16bb134ea5e3e7b444e0fe316395f2"
+    },
+    {
+      "path": "redogit/docs/superpowers/specs/2026-09-30-repository-organization-design.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "2ccad0950b886196321e34eb9a7fb9f4b2dc11c4",
+      "mode": "100644",
+      "sha256": "b5ef657f0ebf4d4352d7f5957bce78f8cbf12ea59715c4d1400fdfe6d5dcb59b"
+    },
+    {
+      "path": "redogit/docs/superpowers/specs/2026-09-30-repository-organization/file-layout-proposal.json",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "1d6f19168f4ae7f0e139fa19146d8545b5cb6491",
+      "mode": "100644",
+      "sha256": "ec6d70dbb4a96c40e2923d4b5cf04df0f42ae66275a9d42045a7d7224f909fa5"
+    },
+    {
+      "path": "redogit/docs/superpowers/specs/2026-09-30-repository-organization/workspace-groups.json",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "1562e0589574c0c4aa3db8eab796656f02be7452",
+      "mode": "100644",
+      "sha256": "7e6c3cd5002ebfa2e404de8022cb19efa38d871372cf103fe3dfcaad2f5088f9"
+    },
+    {
+      "path": "redogit/docs/updates/CURRENT_UPDATE_2026-09-14.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "6dfd7d735bf53286e40c9dae094839c1d051da6e",
+      "mode": "100644",
+      "sha256": "61c77a3770bb4be51a486d4f74cbc7d50ffb6ddc33849d716e2142f8af6e808e"
+    },
+    {
+      "path": "redogit/docs/updates/CURRENT_UPDATE_2026-09-14_FUZZBALL_ALPHA.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "29d1d5a9a7f850fd94dda84e6e245fb4d5557fbe",
+      "mode": "100644",
+      "sha256": "f941bd56c075c957a4253b0a9d0ef524b05692efd06c7f1ae11da8bbbe82844d"
+    },
+    {
+      "path": "redogit/docs/updates/RECENT_WORK_2026-09-25.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "58a1cf2eeff48b109caf076c823e1412aa8e84bc",
+      "mode": "100644",
+      "sha256": "2cf48d3e671cc5c8aa652553c76b3465e359ad82a82c397d1f5dc9990b9de0ca"
+    },
+    {
+      "path": "redogit/plan-authority/README.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "dfa4ef2874eea2917bf6709426251c19041a597d",
+      "mode": "100644",
+      "sha256": "b07b420dbb32ab991b7d286a9c9fb6dc2a76e4cad3cbb2186bd2db589648fc86"
+    },
+    {
+      "path": "redogit/plan-authority/example-actions.json",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "11407a06182585a4dd45694ad750e3b7f491500a",
+      "mode": "100644",
+      "sha256": "a290680cc77184d3cee16dea7baf5d603e8868a202fb9ed0494d316f0aaad81d"
+    },
+    {
+      "path": "redogit/plan-authority/example-overlay.json",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "5219de46d984c6e33c6f1e352f3562b4955f37a9",
+      "mode": "100644",
+      "sha256": "0779353f1d4cd86b952293f548fc94c3919b763118d6a656d93f33acb07aadc5"
+    },
+    {
+      "path": "Other-Projects-/docs/navigation/PROJECT_ROUTING.md",
+      "source_repository": "Other-Projects-",
+      "source_revision": "369683cc173b8887361aec7a1e3c23016f229578",
+      "git_blob": "5581667870dcb4159813a58b171cecb054a8a605",
+      "mode": "100644",
+      "sha256": "2c11344853e8b5a94a9e7ceb32e7c86d6a017422673537999952826abba28d04"
+    },
+    {
+      "path": "Other-Projects-/docs/navigation/bridges/README.md",
+      "source_repository": "Other-Projects-",
+      "source_revision": "369683cc173b8887361aec7a1e3c23016f229578",
+      "git_blob": "d7e4fff0a1110668448fc2f90f6f9a8f85930dc5",
+      "mode": "100644",
+      "sha256": "5d5429a44bb69481a134749237dc12f78fa821cbf34b7cc58ceb50a1324bfc6c"
+    },
+    {
+      "path": "Other-Projects-/docs/navigation/bridges/active-projects.json",
+      "source_repository": "Other-Projects-",
+      "source_revision": "369683cc173b8887361aec7a1e3c23016f229578",
+      "git_blob": "98e3814bd9b7b5f77269ce57b26a225e413dff49",
+      "mode": "100644",
+      "sha256": "ebf2c8d7ea882bc880c7c7f4d5086167265a3e66757f3346876b979e486efb2c"
+    },
+    {
+      "path": "conscience64/research/projects/CURRENT.json",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "116ed43d833489ae9cc07adaaf7b1fd2c2227d89",
+      "mode": "100644",
+      "sha256": "43bf2275bdcaae305d6ea5c4316d5e9c4ec1a6ecdf6229b7c460f2a2090b53dc"
+    },
+    {
+      "path": "conscience64/research/projects/README.md",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "f0d306951c278146d11d159a4c99f7f639244db2",
+      "mode": "100644",
+      "sha256": "5384de95582a7bfa958e562442ea0eca5c35de721b569b0b11650a9f21108686"
+    },
+    {
+      "path": "conscience64/research/projects/cross-carrier-wave.md",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "4253df947ce36894afc70adfccc9c107c4e577fb",
+      "mode": "100644",
+      "sha256": "e00f6ee58d0b4ce25b3e0f3cac63572d152273a8ddf67d07a0ccd09caef2b868"
+    },
+    {
+      "path": "conscience64/research/projects/geometry-codecs.md",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "44a474ced6a0117f67a3b3a5b3fedfc3d04efb33",
+      "mode": "100644",
+      "sha256": "0f50a6d6eb78cf03055c3ec4abd855b0077d725669d3c43aa2142d953cbc6afd"
+    },
+    {
+      "path": "conscience64/research/projects/historical-recovery.md",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "28280c0ba2942a1397b0b9ec575b70b293c38ee1",
+      "mode": "100644",
+      "sha256": "6ce428d5b31b7fc73bd549ebc5fcdb29d45e17cfb7e990c36a16f8e056244613"
+    },
+    {
+      "path": "conscience64/research/projects/hodge-conjecture.md",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "c6cccf86fb49320051ce46a6882a32b21c53930e",
+      "mode": "100644",
+      "sha256": "59a281b3a8f963a6b7de0df4f17071787c665c12e0f1ce5fcad095190c1b3b0b"
+    },
+    {
+      "path": "conscience64/research/projects/index.html",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "10b54800e1e407d4d74f9448c6446a0114c4bb4a",
+      "mode": "100644",
+      "sha256": "598947fa1f5c71fddc5c4c29935de48729c10a10dbb862c23b57469620cdc3b1"
+    },
+    {
+      "path": "conscience64/research/projects/mmo-world-beta.md",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "7498ce28d0b7da7d46e955cbe345e5dd26fbb91f",
+      "mode": "100644",
+      "sha256": "ed8893b892020169f59b428d251495acd6e72db4f159ca3ad500f533224526f9"
+    },
+    {
+      "path": "conscience64/research/projects/model-experiments.md",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "010dd22b42facd4035f435c03c5a8405adce7bb4",
+      "mode": "100644",
+      "sha256": "ffd36c33b4a22b698c08724518c9b669e036fe3fca509b5703ed24e02281688f"
+    },
+    {
+      "path": "conscience64/research/projects/operator-moonshot.md",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "0f945d4a93377f08d026ef7b683a45a5f8197125",
+      "mode": "100644",
+      "sha256": "46f5e86e33020584efd83b893fd4e8e1c72af0e104462b2c043e3c0ac9235fb6"
+    },
+    {
+      "path": "conscience64/research/projects/orbit-library.md",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "67e802b88f5af80287c27812aca60324562d4b49",
+      "mode": "100644",
+      "sha256": "76db6c3ba93fa1304a49511570ed039b4d933b1f2cbc16db0b5acfa169bb2daa"
+    },
+    {
+      "path": "conscience64/research/projects/projects.json",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "24ecb718a9a79d4abbd724787a756f5bdd734049",
+      "mode": "100644",
+      "sha256": "4269e1d4e028849975b6ecbe2d3a2a16d8716e0e78873a7cfbe54c9afab4f4c1"
+    },
+    {
+      "path": "conscience64/research/projects/public-updates/PRIVATE_READER_BOUNDARY.md",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "252dc2d38bfca85d5927118f5705ba5f0673c63d",
+      "mode": "100644",
+      "sha256": "15a4e04e56114ee8ae3c4856fbeb20dfa1450b446bb23317d2a012b62c270779"
+    },
+    {
+      "path": "conscience64/research/projects/public-updates/admissions.json",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "cc066e2e3b58326ca6808b62a76cf9f47ed9b24d",
+      "mode": "100644",
+      "sha256": "a10ddc2481cd92f4530bc1b8117d41432035f4d6abe089db0afd8f55749078a0"
+    },
+    {
+      "path": "conscience64/research/projects/public-updates/app.js",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "2693c6a5623dd5164a691f41c4b3dc2e148133f7",
+      "mode": "100644",
+      "sha256": "8ed62cdf3128d4bc0ae52acc060ff018a02890b7683fab0f0a24dcef79564421"
+    },
+    {
+      "path": "conscience64/research/projects/public-updates/build_public_updates.py",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "46fb7f7bb55210f74051bf0a51af38e404484026",
+      "mode": "100755",
+      "sha256": "2607791c5f2a374a0ce8dcb7da14bfa014a64d36b6e85e7a63052ecc78ad5bcc"
+    },
+    {
+      "path": "conscience64/research/projects/public-updates/data/latest.json",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "26331dffe5016856e8c9522e50e3b11e8717eb72",
+      "mode": "100644",
+      "sha256": "ee0b993150096eed44ea70714a8e147b98bea665b3dd98c3b155b57f8498ac6a"
+    },
+    {
+      "path": "conscience64/research/projects/public-updates/index.html",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "7edc3470e689416d53eb6f9620d71ce728e7f3fd",
+      "mode": "100644",
+      "sha256": "e5b058a9863a95ad7e6979f0e58fd9cbab9f04fedd00ed861ae35ec0b627459d"
+    },
+    {
+      "path": "conscience64/research/projects/public-updates/records/2026-09-13-human-expression-s1024.json",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "ae2b7bec9b704a70c947d5e30f139fa0265b1fa9",
+      "mode": "100644",
+      "sha256": "49ca05fc303e3534a5320ff89bcad7b586a42188cda4093ae3edcdfd2b0f5b7f"
+    },
+    {
+      "path": "conscience64/research/projects/public-updates/records/2026-09-14-coordinate-space-compass-repair.json",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "8aa842caf72d7837177d185f1fef4bcc6d8a5f2d",
+      "mode": "100644",
+      "sha256": "9a4d70654132a631a711fe3685519628ab364d786869e3053608a9d16fc34715"
+    },
+    {
+      "path": "conscience64/research/projects/public-updates/records/2026-09-14-fuzzball-hidden-alpha.json",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "c518c214f6a455deb9f98393e18fe84b23a1511a",
+      "mode": "100644",
+      "sha256": "5b35af7fec1a38dce971e9fe97e34b7669d7bac6378c8f4d4b7bbcd408eb3992"
+    },
+    {
+      "path": "conscience64/research/projects/public-updates/style.css",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "33e6f90386e1a66b3527118b26b45d0393ac6821",
+      "mode": "100644",
+      "sha256": "429950b822e74c8dfe56332434dc027e7fe95505028c1a24a9ed7fba3ab3401d"
+    },
+    {
+      "path": "conscience64/research/projects/research-analytics.md",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "97ac41f4aee70fd2595dcbb154fb036cc24a752a",
+      "mode": "100644",
+      "sha256": "d2ef38cb9f0e7c7321584ca683f411d49eb5efe39d6544adcdae0b3003711eb8"
+    },
+    {
+      "path": "conscience64/research/projects/tiny-babel-tbcl.md",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "58b70d1b7009ed5a1f3da39596ef8ce57e489e9b",
+      "mode": "100644",
+      "sha256": "2f87b3ceee3b1709aad9b9870c16ada68f490d0f72fdcf4d0e2acb3abd8f012b"
+    }
+  ],
+  "limitations": [
+    "Scope manifest is a navigation scope, not a standalone dependency closure.",
+    "No source bytes or historical evidence rewritten.",
+    "Public content clearance and standalone validation are incomplete.",
+    "Original 740 passing tests and two skips have not been replayed."
+  ]
+}

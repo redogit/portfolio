@@ -1,0 +1,74 @@
+{
+  "schema": "repository-organization/verification/v1",
+  "repository": "redogit",
+  "evaluated_state": "local organization working tree before commit",
+  "verified_at_utc": "2026-10-01 12:17:26 UTC",
+  "baseline_revision": "2a2f99c0920b1f1696e449d21a270c452c215841",
+  "status": "passed",
+  "file_integrity": {
+    "baseline_files": 172,
+    "moved_files": 107,
+    "protected_files": 19
+  },
+  "DnD": {
+    "unchanged": true,
+    "tracked_paths_and_hashes": 368,
+    "git_state": "baseline HEAD and clean status preserved"
+  },
+  "workspaces": {
+    "local_groups": 8,
+    "all_source_roots_and_entrypoints_exist": true,
+    "hosted_projects_created": false
+  },
+  "current_navigation": {
+    "new_broken_local_links": 0,
+    "stale_GitHub_main_or_master_pointers_to_moved_sources": 0,
+    "historical_source_locked_locators": "preserved; resolve using baseline revision and migration.json"
+  },
+  "checks": [
+    {
+      "command": "PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s tests -v",
+      "status": "passed",
+      "collected_tests": 60,
+      "skipped_tests": 0,
+      "execution_log": "/workspace/.organization-state/redogit-after.log"
+    },
+    {
+      "command": "python3 tools/redogit.py check .; embedded redogit-profile verification",
+      "status": "passed",
+      "detail": "Repository contract and current profile checks pass"
+    },
+    {
+      "command": "All nine moved Python/Node probe entry points",
+      "status": "passed",
+      "detail": "Fresh outputs stored outside checkout; three Dean JSON result objects exactly match frozen results"
+    }
+  ],
+  "whole_change_primary_suites": {
+    "collected": 742,
+    "passed": 740,
+    "skipped": 2,
+    "skip_reason": "two existing optional Z3 checks; executable probes, frozen audits and game/static checks reported separately"
+  },
+  "independent_review": {
+    "status": "material findings addressed and independently rechecked",
+    "findings_fixed": [
+      "repository verifier project paths",
+      "Garden CI return directory",
+      "current GitHub directory/file pointers",
+      "preserved README command guidance"
+    ]
+  },
+  "cloud_configuration": {
+    "draft_save": "confirmed",
+    "installer_syntax": "passed",
+    "affected_project_workflows": "exercised",
+    "legacy_project_home_fallback": "included",
+    "unchanged_dependency_and_RMAL_setup": "earlier setup validation preserved; DnD not operated on during organization"
+  },
+  "limitations": [
+    "Full Windows SDK, Android, and LLVM/MLIR builds were not executed; Python MLIR parity checks passed",
+    "Changes are local, with no push, hosted-project creation, publication, or remote deployment",
+    "One inherited computational-chorus SONG.md TgI placeholder remains unchanged"
+  ]
+}

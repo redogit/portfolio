@@ -1,0 +1,63 @@
+{
+  "schema": "scoped-repository-dependencies/v1",
+  "workspace": "portfolio",
+  "policy": "Dependencies retain source paths, bytes, modes and identity. Duplication does not transfer ownership.",
+  "files": [
+    {
+      "path": "redogit/tools/plan_authority.py",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "b4014250d8efd871f6aecb1b13fe274e5ba8a23c",
+      "mode": "100644",
+      "sha256": "0dd15e18f91635aa0d2ce4b8dca09f13dc3010749e2c3a7ce800b11c1e69bdbf",
+      "reason": "Plan Authority implementation, CLI, and exact workflow regression test dependencies."
+    },
+    {
+      "path": "redogit/tests/test_plan_authority.py",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "7439dd87902a5a66dae06d234f555e754646e871",
+      "mode": "100644",
+      "sha256": "01c9a3346e1414611448b16e9beaf02ea7cc62135b3a6152c3663cf747f7a0b5",
+      "reason": "Plan Authority implementation, CLI, and exact workflow regression test dependencies."
+    },
+    {
+      "path": "redogit/.github/workflows/plan-authority.yml",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "ebdb699d073e99a47a6bfbf55274bcbb045ce6d2",
+      "mode": "100644",
+      "sha256": "e431be2e0bc64e99c7e4091e297ee73077131e5ab8ea67df30e4f2509da41983",
+      "reason": "Plan Authority implementation, CLI, and exact workflow regression test dependencies."
+    },
+    {
+      "path": "redogit/COMMERCIAL_ACCESS_POLICY.md",
+      "source_repository": "redogit",
+      "source_revision": "380fc85724ee45c5275653aa3d24560878c7efec",
+      "git_blob": "70867f201d185a8a035d81fbff85cda385bee902",
+      "mode": "100644",
+      "sha256": "cac0c3b451ad3e63050129d3f50ba4d2ad9e227d2087a845705023e0941cd9cd",
+      "reason": "Preserve existing source reuse policy; no new license grant or ownership merger."
+    },
+    {
+      "path": "Other-Projects-/COMMERCIAL_ACCESS_POLICY.md",
+      "source_repository": "Other-Projects-",
+      "source_revision": "369683cc173b8887361aec7a1e3c23016f229578",
+      "git_blob": "c9a7bf9085173f85a42f8a4812f99bbdef24fc0b",
+      "mode": "100644",
+      "sha256": "f15eeef67cc0f9069a0a6cd3fb0f219ac742cb1d41171cb18fd4f43940d70db2",
+      "reason": "Preserve existing source reuse policy; no new license grant or ownership merger."
+    },
+    {
+      "path": "conscience64/COMMERCIAL_ACCESS_POLICY.md",
+      "source_repository": "conscience64",
+      "source_revision": "e58fd1cf1958a3744ba840d82da753597cf0102d",
+      "git_blob": "c9a7bf9085173f85a42f8a4812f99bbdef24fc0b",
+      "mode": "100644",
+      "sha256": "f15eeef67cc0f9069a0a6cd3fb0f219ac742cb1d41171cb18fd4f43940d70db2",
+      "reason": "Preserve existing source reuse policy; no new license grant or ownership merger."
+    }
+  ],
+  "blocked": [],
+  "repairs": []
+}

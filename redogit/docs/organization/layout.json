@@ -1,0 +1,45 @@
+{
+  "schema": "repository-organization/layout/v1",
+  "repository": "redogit",
+  "areas": [
+    {
+      "path": "workspaces",
+      "role": "workspaces"
+    },
+    {
+      "path": "research/pnp",
+      "role": "research"
+    },
+    {
+      "path": "research/decision-field",
+      "role": "research"
+    },
+    {
+      "path": "research/gsfl",
+      "role": "research"
+    },
+    {
+      "path": "docs/navigation",
+      "role": "docs"
+    },
+    {
+      "path": "docs/coordination",
+      "role": "docs"
+    },
+    {
+      "path": "docs/orientation",
+      "role": "docs"
+    },
+    {
+      "path": "docs/updates",
+      "role": "docs"
+    },
+    {
+      "path": "plan-authority",
+      "role": "plan-authority"
+    }
+  ],
+  "DnD": "excluded-reference-only",
+  "workspace_catalog": "redogit/workspaces/catalog.json",
+  "migration_manifest": "docs/organization/migration.json"
+}

@@ -1,0 +1,1732 @@
+{
+  "repository": "redogit",
+  "baseline_revision": "2a2f99c0920b1f1696e449d21a270c452c215841",
+  "files": [
+    {
+      "source": ".github/workflows/pages.yml",
+      "destination": ".github/workflows/pages.yml",
+      "baseline_sha256": "ee9ee135351653f53e01957e48cfcb8b8e2bf56a855dceb864119f9e304852a5",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "ee9ee135351653f53e01957e48cfcb8b8e2bf56a855dceb864119f9e304852a5",
+      "content_changed": false
+    },
+    {
+      "source": ".github/workflows/plan-authority.yml",
+      "destination": ".github/workflows/plan-authority.yml",
+      "baseline_sha256": "e431be2e0bc64e99c7e4091e297ee73077131e5ab8ea67df30e4f2509da41983",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "e431be2e0bc64e99c7e4091e297ee73077131e5ab8ea67df30e4f2509da41983",
+      "content_changed": false
+    },
+    {
+      "source": ".github/workflows/redogit-profile.yml",
+      "destination": ".github/workflows/redogit-profile.yml",
+      "baseline_sha256": "e53944f37453946885f32c522d19b7f9b4ccdf736335ed83434d69733b530542",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "0d9cca6a505def0347997a29388eaaf840e9c56260292982b65a950e93d5f671",
+      "content_changed": true
+    },
+    {
+      "source": ".github/workflows/verify-redogit.yml",
+      "destination": ".github/workflows/verify-redogit.yml",
+      "baseline_sha256": "a4d6761e96e64ee5e8caca708ba6e2bd1f5f0bfbbeda9a71412e1dc1718d05f9",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "a4d6761e96e64ee5e8caca708ba6e2bd1f5f0bfbbeda9a71412e1dc1718d05f9",
+      "content_changed": false
+    },
+    {
+      "source": "ACTIVE_FEDERATION.md",
+      "destination": "ACTIVE_FEDERATION.md",
+      "baseline_sha256": "8095a184bcbffbc218d73b818ce0bbb0f078ec732ce8647a33add423b4e0baeb",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Historical navigation preserved at original path",
+      "content_sha256": "8d2eebc01f4413c7fbd9920c402ec1b148a91fafb6d69de47cc10f15afc55cea",
+      "content_changed": true
+    },
+    {
+      "source": "ACTIVE_PROJECTS.md",
+      "destination": "docs/navigation/ACTIVE_PROJECTS.md",
+      "baseline_sha256": "1bec4ae9917ebe41c99785fb9d40e7c89bca49ec15bcd69645c949984a4dbef2",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "91112ca8f9107960487129a13decd0a897f24080ae5d796cefcd18e72010ed6e",
+      "content_changed": true
+    },
+    {
+      "source": "ALGORITHMIC_CONDENSED_WISDOM_ANALYSIS_2026-09-25.md",
+      "destination": "docs/orientation/ALGORITHMIC_CONDENSED_WISDOM_ANALYSIS_2026-09-25.md",
+      "baseline_sha256": "e714f88f8d93d546c2f414c060ff14ec96ce388618fcedbe129e12819f252b46",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "e714f88f8d93d546c2f414c060ff14ec96ce388618fcedbe129e12819f252b46",
+      "content_changed": false
+    },
+    {
+      "source": "ALL_DIRECTIONAL_RELATIONAL_FIELD_2026-09-20.md",
+      "destination": "docs/coordination/ALL_DIRECTIONAL_RELATIONAL_FIELD_2026-09-20.md",
+      "baseline_sha256": "7dfa2f512fba2f3feaf59341bde01681b93f820f1cf5332cf8fcfa4422e4bb4b",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "7dfa2f512fba2f3feaf59341bde01681b93f820f1cf5332cf8fcfa4422e4bb4b",
+      "content_changed": false
+    },
+    {
+      "source": "BIDIRECTIONAL_HANDOFF_PROTOCOL_2026-09-20.json",
+      "destination": "BIDIRECTIONAL_HANDOFF_PROTOCOL_2026-09-20.json",
+      "baseline_sha256": "2f76b56fefb694a8daa29a1653e1afe1e8efda54eb753e4215b13f2ca821c9a2",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "2f76b56fefb694a8daa29a1653e1afe1e8efda54eb753e4215b13f2ca821c9a2",
+      "content_changed": false
+    },
+    {
+      "source": "BIDIRECTIONAL_HANDOFF_PROTOCOL_2026-09-20.md",
+      "destination": "docs/coordination/BIDIRECTIONAL_HANDOFF_PROTOCOL_2026-09-20.md",
+      "baseline_sha256": "012b49041fb57decb03fc8593af9227e5aa1239d8b663f24466adbe613b0e091",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "012b49041fb57decb03fc8593af9227e5aa1239d8b663f24466adbe613b0e091",
+      "content_changed": false
+    },
+    {
+      "source": "BODY_OF_WORK.md",
+      "destination": "BODY_OF_WORK.md",
+      "baseline_sha256": "0ddee3e1a66185cca7e821e1fe18d05c5ec2d23279f76414fef590e0747ba90f",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Historical navigation preserved at original path",
+      "content_sha256": "0ddee3e1a66185cca7e821e1fe18d05c5ec2d23279f76414fef590e0747ba90f",
+      "content_changed": false
+    },
+    {
+      "source": "COMMERCIAL_ACCESS_POLICY.md",
+      "destination": "COMMERCIAL_ACCESS_POLICY.md",
+      "baseline_sha256": "cac0c3b451ad3e63050129d3f50ba4d2ad9e227d2087a845705023e0941cd9cd",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "cac0c3b451ad3e63050129d3f50ba4d2ad9e227d2087a845705023e0941cd9cd",
+      "content_changed": false
+    },
+    {
+      "source": "COOPERATIVE_IMPLEMENTATION_PROTOCOL_2026-09-19.md",
+      "destination": "docs/coordination/COOPERATIVE_IMPLEMENTATION_PROTOCOL_2026-09-19.md",
+      "baseline_sha256": "3063e2720247852fcbc42c50360327e5c92a13055149fd3368bfb9e6186f1b1b",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "3063e2720247852fcbc42c50360327e5c92a13055149fd3368bfb9e6186f1b1b",
+      "content_changed": false
+    },
+    {
+      "source": "COOPERATIVE_IMPLEMENTATION_PROVENANCE_2026-09-19.json",
+      "destination": "COOPERATIVE_IMPLEMENTATION_PROVENANCE_2026-09-19.json",
+      "baseline_sha256": "fe54332a55403ef3a095815401bcf2de0ba41e8c8141d9913f6591f7f83c9538",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "fe54332a55403ef3a095815401bcf2de0ba41e8c8141d9913f6591f7f83c9538",
+      "content_changed": false
+    },
+    {
+      "source": "CURRENT_UPDATE_2026-09-14.md",
+      "destination": "docs/updates/CURRENT_UPDATE_2026-09-14.md",
+      "baseline_sha256": "61c77a3770bb4be51a486d4f74cbc7d50ffb6ddc33849d716e2142f8af6e808e",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "61c77a3770bb4be51a486d4f74cbc7d50ffb6ddc33849d716e2142f8af6e808e",
+      "content_changed": false
+    },
+    {
+      "source": "CURRENT_UPDATE_2026-09-14_FUZZBALL_ALPHA.md",
+      "destination": "docs/updates/CURRENT_UPDATE_2026-09-14_FUZZBALL_ALPHA.md",
+      "baseline_sha256": "f941bd56c075c957a4253b0a9d0ef524b05692efd06c7f1ae11da8bbbe82844d",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "f941bd56c075c957a4253b0a9d0ef524b05692efd06c7f1ae11da8bbbe82844d",
+      "content_changed": false
+    },
+    {
+      "source": "DECISION_FIELD_ADMISSION_RULES_2026-09-17.md",
+      "destination": "research/decision-field/docs/DECISION_FIELD_ADMISSION_RULES_2026-09-17.md",
+      "baseline_sha256": "2af68b75c29cb0b4d3b8638295e8bd594bbc42093742fe3f0e850d78620118e0",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "2af68b75c29cb0b4d3b8638295e8bd594bbc42093742fe3f0e850d78620118e0",
+      "content_changed": false
+    },
+    {
+      "source": "DECISION_FIELD_CANONICAL_POINTER.md",
+      "destination": "research/decision-field/docs/DECISION_FIELD_CANONICAL_POINTER.md",
+      "baseline_sha256": "8f0b76adc2ec868732c9f968064c24b5dafc68bd6306456945f32c63c77e1bd6",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "ca8f3f9f6e9c0ae12a435447861257d87fc810b66fbfc016948086d21c08d258",
+      "content_changed": true
+    },
+    {
+      "source": "DECISION_FIELD_CHANGELOG_2026-09-17.md",
+      "destination": "research/decision-field/docs/DECISION_FIELD_CHANGELOG_2026-09-17.md",
+      "baseline_sha256": "223618c2c68dc7735ad9054fa218975c2558e050e2150d1b16a96592f11131a8",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "223618c2c68dc7735ad9054fa218975c2558e050e2150d1b16a96592f11131a8",
+      "content_changed": false
+    },
+    {
+      "source": "DECISION_FIELD_COMPLETION_MARKER_2026-09-17.md",
+      "destination": "research/decision-field/docs/DECISION_FIELD_COMPLETION_MARKER_2026-09-17.md",
+      "baseline_sha256": "e0149abce85791f7956ac9a71114b1a88eece29fa39f7738acae0f50f20b6bb4",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "e0149abce85791f7956ac9a71114b1a88eece29fa39f7738acae0f50f20b6bb4",
+      "content_changed": false
+    },
+    {
+      "source": "DECISION_FIELD_CORE_2026-09-17.md",
+      "destination": "research/decision-field/docs/DECISION_FIELD_CORE_2026-09-17.md",
+      "baseline_sha256": "82d7fd1e105b5286c2c99b5f5c8363bad530ee90a3e92bfcfb1cb4801c810407",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "82d7fd1e105b5286c2c99b5f5c8363bad530ee90a3e92bfcfb1cb4801c810407",
+      "content_changed": false
+    },
+    {
+      "source": "DECISION_FIELD_FEDERATION_POINTER_2026-09-17.md",
+      "destination": "research/decision-field/docs/DECISION_FIELD_FEDERATION_POINTER_2026-09-17.md",
+      "baseline_sha256": "fe7226b7d76d206a5a8805398a3ef5e9de7e538cdbc80ab62c100fe41c90063b",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "e85da040dd1ae085485fec48c4c0a14232d29f531462dc7a87ffff86663f0ed6",
+      "content_changed": true
+    },
+    {
+      "source": "DECISION_FIELD_MIGRATION_CHECKLIST_2026-09-17.md",
+      "destination": "research/decision-field/docs/DECISION_FIELD_MIGRATION_CHECKLIST_2026-09-17.md",
+      "baseline_sha256": "40e37c5fc455caff7f209775cbdc87ab1c79c0c495decd20326a511b4ed1c0b5",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "40e37c5fc455caff7f209775cbdc87ab1c79c0c495decd20326a511b4ed1c0b5",
+      "content_changed": false
+    },
+    {
+      "source": "DECISION_FIELD_MIGRATION_RESULT_2026-09-17.json",
+      "destination": "DECISION_FIELD_MIGRATION_RESULT_2026-09-17.json",
+      "baseline_sha256": "a527e9e7d53a51944c638c4393e45a4c0b8a67a29421a905082ac6edeeb0bb27",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "a527e9e7d53a51944c638c4393e45a4c0b8a67a29421a905082ac6edeeb0bb27",
+      "content_changed": false
+    },
+    {
+      "source": "DECISION_FIELD_NEXT_EXPERIMENTS_2026-09-17.md",
+      "destination": "research/decision-field/docs/DECISION_FIELD_NEXT_EXPERIMENTS_2026-09-17.md",
+      "baseline_sha256": "ea92111cfd1780d3caaa85c4996fcb3220c952bd7d07c18341c07146ef69e873",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "ea92111cfd1780d3caaa85c4996fcb3220c952bd7d07c18341c07146ef69e873",
+      "content_changed": false
+    },
+    {
+      "source": "DECISION_FIELD_ONE_LINE.txt",
+      "destination": "research/decision-field/records/DECISION_FIELD_ONE_LINE.txt",
+      "baseline_sha256": "c5cb593e590a447001fc10d73e58f6c2bc5bafe727718cc83c69978d8dbd08e2",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "c5cb593e590a447001fc10d73e58f6c2bc5bafe727718cc83c69978d8dbd08e2",
+      "content_changed": false
+    },
+    {
+      "source": "DECISION_FIELD_README.md",
+      "destination": "research/decision-field/docs/DECISION_FIELD_README.md",
+      "baseline_sha256": "5b03c23dc21229adddc1a5de635076e0d32ca55bab0d0fe4f6456b710d945014",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "9870a02741ee77adea32c4bac534fdc073b17b31ed7604556db9789776a2979c",
+      "content_changed": true
+    },
+    {
+      "source": "DECISION_FIELD_SAFETY_BOUNDARY.md",
+      "destination": "research/decision-field/docs/DECISION_FIELD_SAFETY_BOUNDARY.md",
+      "baseline_sha256": "15ad20ffa60b37037c4fcda5e718a295ec21f6534f28f8d2f9e288b84b1875bf",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "15ad20ffa60b37037c4fcda5e718a295ec21f6534f28f8d2f9e288b84b1875bf",
+      "content_changed": false
+    },
+    {
+      "source": "DECISION_FIELD_STATUS_2026-09-17.md",
+      "destination": "research/decision-field/docs/DECISION_FIELD_STATUS_2026-09-17.md",
+      "baseline_sha256": "95546794b6add58156fbd83c21c0e0b482d02d8cf92e529b46fd0f040bbcd543",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "d1540a9035050e00254f728d579d9406541e7ced3656da3fe53f3777497af21f",
+      "content_changed": true
+    },
+    {
+      "source": "DECISION_FIELD_THREAD_SYNTHESIS_2026-09-17.md",
+      "destination": "research/decision-field/docs/DECISION_FIELD_THREAD_SYNTHESIS_2026-09-17.md",
+      "baseline_sha256": "6af224946529b311a1377595cf74e5ab04a5a78c2fe4e26651628cf76ce9166e",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "6af224946529b311a1377595cf74e5ab04a5a78c2fe4e26651628cf76ce9166e",
+      "content_changed": false
+    },
+    {
+      "source": "DECISION_FIELD_VERIFICATION_NOTE.md",
+      "destination": "research/decision-field/docs/DECISION_FIELD_VERIFICATION_NOTE.md",
+      "baseline_sha256": "cd029d2c85a4b945c693a8eb0b5abe8044134ed707a97981775715175c3bef60",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "cd029d2c85a4b945c693a8eb0b5abe8044134ed707a97981775715175c3bef60",
+      "content_changed": false
+    },
+    {
+      "source": "DECISION_FIELD_VERSION.json",
+      "destination": "DECISION_FIELD_VERSION.json",
+      "baseline_sha256": "55a1f5d7fc9ca3e9591ae909007fd8fc94f328f3b3bf433d801c6ac86b789d46",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "55a1f5d7fc9ca3e9591ae909007fd8fc94f328f3b3bf433d801c6ac86b789d46",
+      "content_changed": false
+    },
+    {
+      "source": "FEDERATED_WORK_INDEX.md",
+      "destination": "FEDERATED_WORK_INDEX.md",
+      "baseline_sha256": "47b063db4068aad6388f8093ead6dea65f31fd469aa9e682d68b5c7cf369b347",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Historical navigation preserved at original path",
+      "content_sha256": "beb1268b189ac232ca26fd8cc510a4ffd88066cedcd78cb68e041a322a7ca409",
+      "content_changed": true
+    },
+    {
+      "source": "GITHUB_CONVERGENCE_PLAN_2026-09-18.md",
+      "destination": "docs/coordination/GITHUB_CONVERGENCE_PLAN_2026-09-18.md",
+      "baseline_sha256": "5469f329eca9d6442fb3969eb02ac4e0380c594f8f8604fa8ae6d98bacf225f5",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "5469f329eca9d6442fb3969eb02ac4e0380c594f8f8604fa8ae6d98bacf225f5",
+      "content_changed": false
+    },
+    {
+      "source": "GITHUB_CONVERGENCE_RESULT_2026-09-18.md",
+      "destination": "docs/coordination/GITHUB_CONVERGENCE_RESULT_2026-09-18.md",
+      "baseline_sha256": "fabcc29d3cd185e48679ba4619e29b3069f1a8a9f06db1232583f3406154681e",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "b822b18adb6af92963d2149ce84872965aaac43722943ec80d3697c3e1a68b8d",
+      "content_changed": true
+    },
+    {
+      "source": "GOAL_TOPOLOGY_2026-09-15.md",
+      "destination": "docs/coordination/GOAL_TOPOLOGY_2026-09-15.md",
+      "baseline_sha256": "78c91ad3811a9b560392403e173bddd38d263693297460a3d5c42008eae2d0e7",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "78c91ad3811a9b560392403e173bddd38d263693297460a3d5c42008eae2d0e7",
+      "content_changed": false
+    },
+    {
+      "source": "GSFL_ACTIVE_2026-09-16.md",
+      "destination": "research/gsfl/docs/GSFL_ACTIVE_2026-09-16.md",
+      "baseline_sha256": "abe858d63c06aff327b4f5e9533c96bfef272a90479990fb7c107d02ffb6038f",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "e0e7e22fedb4b2061bd8414a678ea15683ec18b00a26124de28342c7685e3e24",
+      "content_changed": true
+    },
+    {
+      "source": "GSFL_BIDIRECTIONAL_MACRO_2026-09-16.md",
+      "destination": "research/gsfl/docs/GSFL_BIDIRECTIONAL_MACRO_2026-09-16.md",
+      "baseline_sha256": "d3c76a074fcd9fff847632efc14f56c56953190398adb189e7bd394fa6a322b8",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "d3c76a074fcd9fff847632efc14f56c56953190398adb189e7bd394fa6a322b8",
+      "content_changed": false
+    },
+    {
+      "source": "GSFL_CONTEXTUAL_MULTICARRIER_2026-09-16.md",
+      "destination": "research/gsfl/docs/GSFL_CONTEXTUAL_MULTICARRIER_2026-09-16.md",
+      "baseline_sha256": "6adc657b4ff58b496d38e5c69a0ba95049ef46f60aa2c06ab60ddf1218a167f0",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "6adc657b4ff58b496d38e5c69a0ba95049ef46f60aa2c06ab60ddf1218a167f0",
+      "content_changed": false
+    },
+    {
+      "source": "GSFL_OPERATOR_PROJECTION_2026-09-16.md",
+      "destination": "research/gsfl/docs/GSFL_OPERATOR_PROJECTION_2026-09-16.md",
+      "baseline_sha256": "230471a36ed25d5d49f32d819c25589c742064640a2958536e029f6ec40c520d",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "230471a36ed25d5d49f32d819c25589c742064640a2958536e029f6ec40c520d",
+      "content_changed": false
+    },
+    {
+      "source": "GSFL_UPDATE_2026-09-16.md",
+      "destination": "research/gsfl/docs/GSFL_UPDATE_2026-09-16.md",
+      "baseline_sha256": "aa843de612e3e64917914497dba51733b26793c7177843903ea078d918caec0d",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "aa843de612e3e64917914497dba51733b26793c7177843903ea078d918caec0d",
+      "content_changed": false
+    },
+    {
+      "source": "GSFL_V0_1_ACTIVE_2026-09-16.md",
+      "destination": "research/gsfl/docs/GSFL_V0_1_ACTIVE_2026-09-16.md",
+      "baseline_sha256": "6ea4cb5cb72beae66b8bcfee760fa8c977b5d7d9e18bd9e9aa479e7be2903bc1",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "d4af45e4c4e69800b9af6aa84771ad4a87819180e5e5815cb9233fab0aa647b3",
+      "content_changed": true
+    },
+    {
+      "source": "GSFL_V0_1_COMPLETE_2026-09-16.md",
+      "destination": "research/gsfl/docs/GSFL_V0_1_COMPLETE_2026-09-16.md",
+      "baseline_sha256": "5b11b3f8394b0105bfeb4a24d046bb4639e39723692409d28cb0f2c5266f9409",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "59777a5ad8a582aae54aa52fda0dce6a6291e95aea941462ea6a07605a2f6914",
+      "content_changed": true
+    },
+    {
+      "source": "HIGHEST_VIEW_PLAN_ALIGNMENT_2026-09-20.md",
+      "destination": "docs/coordination/HIGHEST_VIEW_PLAN_ALIGNMENT_2026-09-20.md",
+      "baseline_sha256": "8accb68dd24296dad38ce5851b9cb68ef1522f78a78169dc6058101b19b9e39b",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "8accb68dd24296dad38ce5851b9cb68ef1522f78a78169dc6058101b19b9e39b",
+      "content_changed": false
+    },
+    {
+      "source": "HISTORY_PLAYGROUND_10_STEP_CHECKIN.md",
+      "destination": "docs/navigation/history-playground/HISTORY_PLAYGROUND_10_STEP_CHECKIN.md",
+      "baseline_sha256": "43a0cd05b0d9c57f9fc3472e6fc9bf4d0627a1d961e1b5341bcbd0bc3b1ee8b7",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "9591b0502fc223a75ee1d33604bc7e6a951960f40ef6b8511938cca3d015b8e4",
+      "content_changed": true
+    },
+    {
+      "source": "HISTORY_PLAYGROUND_CHECKIN_STATUS.md",
+      "destination": "docs/navigation/history-playground/HISTORY_PLAYGROUND_CHECKIN_STATUS.md",
+      "baseline_sha256": "e47ac3141d7d719f9eb5e1f2d91182e3df68cae7f574b23240a906c75b92bc3e",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "e47ac3141d7d719f9eb5e1f2d91182e3df68cae7f574b23240a906c75b92bc3e",
+      "content_changed": false
+    },
+    {
+      "source": "LIBRARIES_OF_LIBRARIES_GIT_LINEAGE_2026-09-19.md",
+      "destination": "docs/coordination/LIBRARIES_OF_LIBRARIES_GIT_LINEAGE_2026-09-19.md",
+      "baseline_sha256": "6cc78d36c98ded36350c810230ac02b2aa02b5764b3cad4491c46209849cbc6e",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "06344207caae584e22359a6e72d06d88cabe823189f3b2991e86b94e0e45f026",
+      "content_changed": true
+    },
+    {
+      "source": "LIBRARIES_OF_LIBRARIES_RMAL_BUILD_2026-09-19.md",
+      "destination": "docs/coordination/LIBRARIES_OF_LIBRARIES_RMAL_BUILD_2026-09-19.md",
+      "baseline_sha256": "085c43f52e6f1d86ca1b62eb122a981a949f75ad16a895e9764cd3a20ef8c314",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "0217876586dadfff72d78130d1b00e2a1139e6a20a207ee9f2b68811fa7c3565",
+      "content_changed": true
+    },
+    {
+      "source": "LIBRARY_PATTERN.schema.json",
+      "destination": "LIBRARY_PATTERN.schema.json",
+      "baseline_sha256": "00980173c0b5c69de1122b5653b31dd2493a274a20fb57030096dcb649d8e051",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "00980173c0b5c69de1122b5653b31dd2493a274a20fb57030096dcb649d8e051",
+      "content_changed": false
+    },
+    {
+      "source": "LIBRARY_PATTERN_2026-09-16.json",
+      "destination": "LIBRARY_PATTERN_2026-09-16.json",
+      "baseline_sha256": "102432e51044ed642aa0ab57aa4a2af8ecc19f5c06d6073d02df97b6348281f4",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "102432e51044ed642aa0ab57aa4a2af8ecc19f5c06d6073d02df97b6348281f4",
+      "content_changed": false
+    },
+    {
+      "source": "LIBRARY_PATTERN_FEDERATION_2026-09-16.md",
+      "destination": "docs/coordination/LIBRARY_PATTERN_FEDERATION_2026-09-16.md",
+      "baseline_sha256": "c9d7a63d4948a0f9c121fda64216bef2ee0016dd25a1aae6ec0d164db4f05ed3",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "c9d7a63d4948a0f9c121fda64216bef2ee0016dd25a1aae6ec0d164db4f05ed3",
+      "content_changed": false
+    },
+    {
+      "source": "LIBRARY_PATTERN_VALIDATION_2026-09-16.json",
+      "destination": "LIBRARY_PATTERN_VALIDATION_2026-09-16.json",
+      "baseline_sha256": "eac73e46dd4bd47cdf72b02c801f7f1525ff55074460daeed8e5570ca8a77625",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "eac73e46dd4bd47cdf72b02c801f7f1525ff55074460daeed8e5570ca8a77625",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_BEND_FIRST_MIXED_LAYER_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_BEND_FIRST_MIXED_LAYER_2026-09-26.md",
+      "baseline_sha256": "15a36d4d0b7cd9c792ea189319f52efb9535bcd9fde5178d8b05a845a068cc72",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "930e9af9f96e85afd43b264232277dcbd29d2cb312d4591f7c67aced39f86e88",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_BOOLEAN_SHEAR_FIBER_THEOREM_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_BOOLEAN_SHEAR_FIBER_THEOREM_2026-09-26.md",
+      "baseline_sha256": "ac7be02b2eb0bdd6b2a6297edae92b93a8587a045c8de725e35795d71ff7bd6d",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "ee9c5e79a7246b4e5a58c2cde9adc49f4db83175265630d9d79ec42314db69fb",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_BOUNDARY_RESCUE_CORRECTION_SET_SEAM_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_BOUNDARY_RESCUE_CORRECTION_SET_SEAM_2026-09-26.md",
+      "baseline_sha256": "624183d4dee75ac13274fbcfb0799572d93f467088958a339ed4e8806b7bfb29",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "16c7797f1ebe0e1d52751bc9f42cea386f5fa95914eb3778c571aeaac79b0572",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_BOUNDARY_RESIDUAL_MAP_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_BOUNDARY_RESIDUAL_MAP_2026-09-26.md",
+      "baseline_sha256": "8998d0247cce723062a7e7d59ce1bf594b9e927a96674c48d6916196e7e7e053",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "f4e1f8de892ba570eb1f73d5587dd3bd6abdbb70afda8e1ed3fc9e5e0f16eb4b",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_BOUNDARY_RESIDUAL_ORTHANTS_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_BOUNDARY_RESIDUAL_ORTHANTS_2026-09-26.md",
+      "baseline_sha256": "19274b75a1f24c62effcc9297cff4ecc92625e99256f329448281cd9db2ea923",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "c8011d66791f539dbe8e8d53346eae05493d001cd4a2a07d7350c23e8018b695",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_CROSS_CIRCUIT_BOUNDED_ADHESION_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_CROSS_CIRCUIT_BOUNDED_ADHESION_2026-09-26.md",
+      "baseline_sha256": "5e2ab72efe170372daf70c13fb69777973cf41a0a855f824a03947bc3ce56659",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "68837079db1bb08a9faa67c8a81a15570ae41529ea03c795f06a82676fcd926d",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_CUBIC_3UNIFORM_RESIDUAL_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_CUBIC_3UNIFORM_RESIDUAL_2026-09-26.md",
+      "baseline_sha256": "106143a012b604db30bcc7b07a609518b10c8ba9812a69fe1ece3e7726c9a723",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "106143a012b604db30bcc7b07a609518b10c8ba9812a69fe1ece3e7726c9a723",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_CUBIC_3UNIFORM_RESIDUAL_EVIDENCE_2026-09-26.json",
+      "destination": "PNP_CUBIC_3UNIFORM_RESIDUAL_EVIDENCE_2026-09-26.json",
+      "baseline_sha256": "dfb8818f523f1f8587c3728d9700204c74e03709ffbda796cd60090b6c547e32",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "dfb8818f523f1f8587c3728d9700204c74e03709ffbda796cd60090b6c547e32",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_CUBIC_BOND_COEFFICIENT_CHECK_2026-09-26.py",
+      "destination": "research/pnp/carriers/probes/PNP_CUBIC_BOND_COEFFICIENT_CHECK_2026-09-26.py",
+      "baseline_sha256": "7f74772e0eb96ae95f1d2338afe3b7b7fd693b1ee77447a53bb9a3566ba6d166",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "7f74772e0eb96ae95f1d2338afe3b7b7fd693b1ee77447a53bb9a3566ba6d166",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_CUBIC_BOND_COEFFICIENT_EVIDENCE_2026-09-26.json",
+      "destination": "PNP_CUBIC_BOND_COEFFICIENT_EVIDENCE_2026-09-26.json",
+      "baseline_sha256": "8597344018b123029edc8de0ad02a1b8fba2e1ecf88e13febd450b5b7b2cd75b",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "8597344018b123029edc8de0ad02a1b8fba2e1ecf88e13febd450b5b7b2cd75b",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_CUBIC_BOND_LATTICE_CARRIER_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_CUBIC_BOND_LATTICE_CARRIER_2026-09-26.md",
+      "baseline_sha256": "2a270e78234481bab8fc92ba52a985eb3b3ea16cc3d81e1f68313dcded2d257d",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "2a270e78234481bab8fc92ba52a985eb3b3ea16cc3d81e1f68313dcded2d257d",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_CUBIC_FRONTIER_PROJECTION_CARRIER_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_CUBIC_FRONTIER_PROJECTION_CARRIER_2026-09-26.md",
+      "baseline_sha256": "3c595416ecfa01253a75bd87326931fef6c03de5eebfc8e0d6a889a1a893dc69",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "3c595416ecfa01253a75bd87326931fef6c03de5eebfc8e0d6a889a1a893dc69",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_CUBIC_FRONTIER_PROJECTION_CHECK_2026-09-26.py",
+      "destination": "research/pnp/carriers/probes/PNP_CUBIC_FRONTIER_PROJECTION_CHECK_2026-09-26.py",
+      "baseline_sha256": "55269039e85d737ddd6637693461a2a1471b14e759973a132f351bc48569d5f7",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "55269039e85d737ddd6637693461a2a1471b14e759973a132f351bc48569d5f7",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_CUBIC_FRONTIER_PROJECTION_EVIDENCE_2026-09-26.json",
+      "destination": "PNP_CUBIC_FRONTIER_PROJECTION_EVIDENCE_2026-09-26.json",
+      "baseline_sha256": "24e881330607683fbbe20fd8c2e4e4725a84bc34fd96d99262822de78110c09e",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "24e881330607683fbbe20fd8c2e4e4725a84bc34fd96d99262822de78110c09e",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_CURRENT_PROBLEM_MAP_2026-09-30.md",
+      "destination": "research/pnp/carriers/docs/PNP_CURRENT_PROBLEM_MAP_2026-09-30.md",
+      "baseline_sha256": "2f14e63ac8f6907a11ab03195d95540d249d77da225990e00e7e35cff74e256b",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "be0114a23e82300956c5e854eca5bfccd060f26132a8273bb46a7cec61be81b9",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_DEAN_ARTICULATION_2026-09-30.md",
+      "destination": "research/pnp/dean/docs/PNP_DEAN_ARTICULATION_2026-09-30.md",
+      "baseline_sha256": "5130d90384a005dfd4f9b9e9365e962f7176a73df6a7641e6431093ab2e943a7",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "1f16a5f650c5aa9de7943cf961d5617727e972571fc2fe48160e7030e68af97c",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_DEAN_ARTICULATION_CONTRACT_2026-09-30.json",
+      "destination": "PNP_DEAN_ARTICULATION_CONTRACT_2026-09-30.json",
+      "baseline_sha256": "aadf7237097ffe57fdaf7e4b748e7b7cfbbcc0e9c8ac77df7f970227824d2cad",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "aadf7237097ffe57fdaf7e4b748e7b7cfbbcc0e9c8ac77df7f970227824d2cad",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_ARTICULATION_PROBE_2026-09-30.py",
+      "destination": "research/pnp/dean/probes/PNP_DEAN_ARTICULATION_PROBE_2026-09-30.py",
+      "baseline_sha256": "fea7dcb37cdeb575e8aba747fd32645989eaf4ddc5ebdf9e38d71baa5d177c53",
+      "action": "move",
+      "protected_content": true,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "fea7dcb37cdeb575e8aba747fd32645989eaf4ddc5ebdf9e38d71baa5d177c53",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_ARTICULATION_RUN_2026-09-30/manifest.json",
+      "destination": "research/pnp/dean/evidence/runs/PNP_DEAN_ARTICULATION_RUN_2026-09-30/manifest.json",
+      "baseline_sha256": "47c01786b40d07742b5f2fe83227f92e8f40b2e876d0c594b1b966e5774c84da",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "47c01786b40d07742b5f2fe83227f92e8f40b2e876d0c594b1b966e5774c84da",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_ARTICULATION_RUN_2026-09-30/result.json",
+      "destination": "research/pnp/dean/evidence/runs/PNP_DEAN_ARTICULATION_RUN_2026-09-30/result.json",
+      "baseline_sha256": "f7acf72dd42172b1004e0e2a1c28f65adb6d600cd71f98979a927d778166fbad",
+      "action": "move",
+      "protected_content": true,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "f7acf72dd42172b1004e0e2a1c28f65adb6d600cd71f98979a927d778166fbad",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_ARTICULATION_RUN_2026-09-30/stderr.txt",
+      "destination": "research/pnp/dean/evidence/runs/PNP_DEAN_ARTICULATION_RUN_2026-09-30/stderr.txt",
+      "baseline_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "action": "move",
+      "protected_content": true,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_ARTICULATION_RUN_2026-09-30/stdout.txt",
+      "destination": "research/pnp/dean/evidence/runs/PNP_DEAN_ARTICULATION_RUN_2026-09-30/stdout.txt",
+      "baseline_sha256": "fcfaab598239b4f457f576adc1b6493ed9e4f391ef8b52ca43a2035dc41825eb",
+      "action": "move",
+      "protected_content": true,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "fcfaab598239b4f457f576adc1b6493ed9e4f391ef8b52ca43a2035dc41825eb",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_BOUNDARY_STATE_CONTRACT_2026-09-29.json",
+      "destination": "PNP_DEAN_BOUNDARY_STATE_CONTRACT_2026-09-29.json",
+      "baseline_sha256": "4cb65d161a3802755aa8400cbea56fb0f03e7563803ba0a3ed6b50abc2b0783b",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "4cb65d161a3802755aa8400cbea56fb0f03e7563803ba0a3ed6b50abc2b0783b",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_BOUNDARY_STATE_PROBE_2026-09-29.py",
+      "destination": "research/pnp/dean/probes/PNP_DEAN_BOUNDARY_STATE_PROBE_2026-09-29.py",
+      "baseline_sha256": "c4c51a43248dc01b205e06ae43c8f0169ca920b0196bad92adba850c3558a59e",
+      "action": "move",
+      "protected_content": true,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "c4c51a43248dc01b205e06ae43c8f0169ca920b0196bad92adba850c3558a59e",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_BOUNDARY_STATE_PROGRESSION_2026-09-29.md",
+      "destination": "research/pnp/dean/docs/PNP_DEAN_BOUNDARY_STATE_PROGRESSION_2026-09-29.md",
+      "baseline_sha256": "5ecbcc52347e7b2388fcef602b7e899c3c9a341754a7f3f95dcb0d829a8946d5",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "11b2ac0b6bd13e4120cb19b10ddc15082454924406bbb23a88756fe58c0c9356",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_DEAN_BOUNDARY_STATE_RUN_2026-09-29_r2/manifest.json",
+      "destination": "research/pnp/dean/evidence/runs/PNP_DEAN_BOUNDARY_STATE_RUN_2026-09-29_r2/manifest.json",
+      "baseline_sha256": "9faec9c0d89c7f22aba3d7084e3ee30b6e86172396f3c13e3013d44f6a00425e",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "9faec9c0d89c7f22aba3d7084e3ee30b6e86172396f3c13e3013d44f6a00425e",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_BOUNDARY_STATE_RUN_2026-09-29_r2/result.json",
+      "destination": "research/pnp/dean/evidence/runs/PNP_DEAN_BOUNDARY_STATE_RUN_2026-09-29_r2/result.json",
+      "baseline_sha256": "904137cb1108c52faeb4e4934c8c7014ab5e92c3611d17b861ff1de5191a9f3e",
+      "action": "move",
+      "protected_content": true,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "904137cb1108c52faeb4e4934c8c7014ab5e92c3611d17b861ff1de5191a9f3e",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_BOUNDARY_STATE_RUN_2026-09-29_r2/stderr.txt",
+      "destination": "research/pnp/dean/evidence/runs/PNP_DEAN_BOUNDARY_STATE_RUN_2026-09-29_r2/stderr.txt",
+      "baseline_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "action": "move",
+      "protected_content": true,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_BOUNDARY_STATE_RUN_2026-09-29_r2/stdout.txt",
+      "destination": "research/pnp/dean/evidence/runs/PNP_DEAN_BOUNDARY_STATE_RUN_2026-09-29_r2/stdout.txt",
+      "baseline_sha256": "5873fc4b542290d5b95bc879e6e0b13de6dfe64b9ace62ae2e6003bb5a198340",
+      "action": "move",
+      "protected_content": true,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "5873fc4b542290d5b95bc879e6e0b13de6dfe64b9ace62ae2e6003bb5a198340",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_CLIQUE_OVERLAP_2026-09-29.md",
+      "destination": "research/pnp/dean/docs/PNP_DEAN_CLIQUE_OVERLAP_2026-09-29.md",
+      "baseline_sha256": "5689cb7268e88f36d69c101e12725bf374f82d166a07a5817cf9feec8da85a52",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "5689cb7268e88f36d69c101e12725bf374f82d166a07a5817cf9feec8da85a52",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_COMPONENT_EXPRESSION_2026-09-30.md",
+      "destination": "research/pnp/dean/docs/PNP_DEAN_COMPONENT_EXPRESSION_2026-09-30.md",
+      "baseline_sha256": "227eafe49aae3da227eff45fd882fbd78f6a3a0599852a47c417abc511ccd99c",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "d02799ce2b249d23003487bf3fbac508a29e78c66654bd63c545dd5bdf5f2bf8",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_DEAN_COMPONENT_EXPRESSION_EXECUTION_2026-09-30.json",
+      "destination": "PNP_DEAN_COMPONENT_EXPRESSION_EXECUTION_2026-09-30.json",
+      "baseline_sha256": "30ed12f059a66fc6704d7e32d95e4728d3a57834da7623ea405653578d3ef0c0",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "30ed12f059a66fc6704d7e32d95e4728d3a57834da7623ea405653578d3ef0c0",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_COMPONENT_EXPRESSION_PROBE_2026-09-30.mjs",
+      "destination": "research/pnp/dean/probes/PNP_DEAN_COMPONENT_EXPRESSION_PROBE_2026-09-30.mjs",
+      "baseline_sha256": "a70cb8b653f5e692f628105f69cd412697cf3302a8a0d38f4dea24a1a31690d5",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "a70cb8b653f5e692f628105f69cd412697cf3302a8a0d38f4dea24a1a31690d5",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_COMPONENT_EXPRESSION_RESULT_2026-09-30.json",
+      "destination": "PNP_DEAN_COMPONENT_EXPRESSION_RESULT_2026-09-30.json",
+      "baseline_sha256": "55be44770b11c7c829f18cce540de86b86db9b78509a18eecdae490eed9b20ff",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "55be44770b11c7c829f18cce540de86b86db9b78509a18eecdae490eed9b20ff",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_CYCLE_CERTIFICATE_DISCOVERY_2026-09-29.md",
+      "destination": "research/pnp/dean/docs/PNP_DEAN_CYCLE_CERTIFICATE_DISCOVERY_2026-09-29.md",
+      "baseline_sha256": "23d2b2e94836a683c2cd03baa81808523cf0d255cd30b26b18adecff1847fa4e",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "23d2b2e94836a683c2cd03baa81808523cf0d255cd30b26b18adecff1847fa4e",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_FIXED_LIST_C5_CHAIN_2026-09-29.md",
+      "destination": "research/pnp/dean/docs/PNP_DEAN_FIXED_LIST_C5_CHAIN_2026-09-29.md",
+      "baseline_sha256": "777b9de98eea11b8dcb89e33d46c1aa386e718a68eeaeea20d273971d30e275e",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "777b9de98eea11b8dcb89e33d46c1aa386e718a68eeaeea20d273971d30e275e",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_FROZEN_CATALOG_WHEEL_GAP_2026-09-29.md",
+      "destination": "research/pnp/dean/docs/PNP_DEAN_FROZEN_CATALOG_WHEEL_GAP_2026-09-29.md",
+      "baseline_sha256": "6790f074984a6606ebcfe891c2b284d68ac112becb94acb737e7a3f756af9217",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "6790f074984a6606ebcfe891c2b284d68ac112becb94acb737e7a3f756af9217",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_MIXED_FRAME_DISCOVERY_2026-09-29.md",
+      "destination": "research/pnp/dean/docs/PNP_DEAN_MIXED_FRAME_DISCOVERY_2026-09-29.md",
+      "baseline_sha256": "668af89f7ead437ba00c339daf60ec77ca004fdbb97876bd7871a1c63710086c",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "668af89f7ead437ba00c339daf60ec77ca004fdbb97876bd7871a1c63710086c",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_NINE_VERTEX_LOCAL_ROUNDING_2026-09-29.md",
+      "destination": "research/pnp/dean/docs/PNP_DEAN_NINE_VERTEX_LOCAL_ROUNDING_2026-09-29.md",
+      "baseline_sha256": "14174c8f0518c39205e0674636c415a753330c734c779ee464f611296bbc4012",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "14174c8f0518c39205e0674636c415a753330c734c779ee464f611296bbc4012",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_ONE_DEGREE_RANK_REPAIR_2026-09-29.md",
+      "destination": "research/pnp/dean/docs/PNP_DEAN_ONE_DEGREE_RANK_REPAIR_2026-09-29.md",
+      "baseline_sha256": "4bd48e4e0e8af98821b520cd77bdfaa89cc045d79aefa2dc30b540b08179a18c",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "4bd48e4e0e8af98821b520cd77bdfaa89cc045d79aefa2dc30b540b08179a18c",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_OVERLAPPING_WHEEL_ROUNDING_2026-09-29.md",
+      "destination": "research/pnp/dean/docs/PNP_DEAN_OVERLAPPING_WHEEL_ROUNDING_2026-09-29.md",
+      "baseline_sha256": "9f0aecc322530c135793cfc555b0ccf345aaa46aee13b2e7d54d172220190a72",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "f1cd9e82592c664c73648ac1c4ce284b7f43d0f4b3a9735b025b9c65256135cf",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_DEAN_OVERLAPPING_WHEEL_ROUNDING_2026-09-29.py",
+      "destination": "research/pnp/dean/probes/PNP_DEAN_OVERLAPPING_WHEEL_ROUNDING_2026-09-29.py",
+      "baseline_sha256": "540597867082750d0a29c5122f8da06459f457473f4e6433714cb17cb23e465a",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "540597867082750d0a29c5122f8da06459f457473f4e6433714cb17cb23e465a",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_PARITY_REPAIR_2026-09-30.md",
+      "destination": "research/pnp/dean/docs/PNP_DEAN_PARITY_REPAIR_2026-09-30.md",
+      "baseline_sha256": "2b1d2fa870358ab5744a70ded95bb0d8e7222f609234d4712a3fc20decb27749",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "e9b06456cd89e7d9756eecbf0def25aa728b1faf768e44da6f2ff5cc8c6cd1f1",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_DEAN_PARITY_REPAIR_CONTRACT_2026-09-30.json",
+      "destination": "PNP_DEAN_PARITY_REPAIR_CONTRACT_2026-09-30.json",
+      "baseline_sha256": "c6e1b12d8cb5e20954536ab8f1c89c373613b35861d7f89f2199fc0a2f6d5f73",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "c6e1b12d8cb5e20954536ab8f1c89c373613b35861d7f89f2199fc0a2f6d5f73",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_PARITY_REPAIR_PROBE_2026-09-30.py",
+      "destination": "research/pnp/dean/probes/PNP_DEAN_PARITY_REPAIR_PROBE_2026-09-30.py",
+      "baseline_sha256": "709c2f6933e414ebc9a1034dc53f565bc1b57211544f8da6a8c4b212aa6905d5",
+      "action": "move",
+      "protected_content": true,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "709c2f6933e414ebc9a1034dc53f565bc1b57211544f8da6a8c4b212aa6905d5",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_PARITY_REPAIR_RUN_2026-09-30/manifest.json",
+      "destination": "research/pnp/dean/evidence/runs/PNP_DEAN_PARITY_REPAIR_RUN_2026-09-30/manifest.json",
+      "baseline_sha256": "6e6fcc36574ed6a95e15ac143e270a1ba5568f6a2b8e1e84b24e505cbeda458e",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "6e6fcc36574ed6a95e15ac143e270a1ba5568f6a2b8e1e84b24e505cbeda458e",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_PARITY_REPAIR_RUN_2026-09-30/result.json",
+      "destination": "research/pnp/dean/evidence/runs/PNP_DEAN_PARITY_REPAIR_RUN_2026-09-30/result.json",
+      "baseline_sha256": "28d4d2ce9c8474b9364018d9ec726d73d817a5937962ee766c6f1e59af51aabd",
+      "action": "move",
+      "protected_content": true,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "28d4d2ce9c8474b9364018d9ec726d73d817a5937962ee766c6f1e59af51aabd",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_PARITY_REPAIR_RUN_2026-09-30/stderr.txt",
+      "destination": "research/pnp/dean/evidence/runs/PNP_DEAN_PARITY_REPAIR_RUN_2026-09-30/stderr.txt",
+      "baseline_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "action": "move",
+      "protected_content": true,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_DEAN_PARITY_REPAIR_RUN_2026-09-30/stdout.txt",
+      "destination": "research/pnp/dean/evidence/runs/PNP_DEAN_PARITY_REPAIR_RUN_2026-09-30/stdout.txt",
+      "baseline_sha256": "1172c394ec27659bcb159249bc2eda312e77fb43f518b7845d31079c91f6c311",
+      "action": "move",
+      "protected_content": true,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "1172c394ec27659bcb159249bc2eda312e77fb43f518b7845d31079c91f6c311",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_FIXED_B_BVE_UNIFORMITY_EDGE_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_FIXED_B_BVE_UNIFORMITY_EDGE_2026-09-26.md",
+      "baseline_sha256": "d14d40bb2e7063b39f9ee48885c46c86c2553809616c47c9d58422c7b120b08a",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "c8b4dcc82ba3ba0805f77729aef845a62e10a3e3d08a1084e2fcfe8c99a5037c",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_HIGHER_ORDER_CIRCUIT_COMPATIBILITY_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_HIGHER_ORDER_CIRCUIT_COMPATIBILITY_2026-09-26.md",
+      "baseline_sha256": "8f574bfe95bb30c8df9e0bb69ddaac41763941e916d3ea5af4a333829e687223",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "257d70209195a546210a5a149a2ad228df719d1126848a3388d22c5374054551",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_LOG_SURPLUS_TIGHT_EDGE_CLOSURE_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_LOG_SURPLUS_TIGHT_EDGE_CLOSURE_2026-09-26.md",
+      "baseline_sha256": "c37531c7775fb0036bfccdb29af2188ed53d7b33b12a21b489f266bc8eb7182b",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "ae5c57508d9425b290b47336199aee84bf3cb07103639e90ff50e9b4bcb2bba2",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_MINIMAL_LINEAR_BOOLEAN_SEAM_PAIR_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_MINIMAL_LINEAR_BOOLEAN_SEAM_PAIR_2026-09-26.md",
+      "baseline_sha256": "e115e639303be2b352fe6457c3ce95d13dc7f5aeb807b9dde7353140ed522b98",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "4d9e60f87a7c30e1bc994f0c9d418eae64034914fe70ee3d85b29ef93b7fd51e",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_MINIMAL_LINEAR_BOOLEAN_SEAM_PAIR_CHECK_2026-09-26.py",
+      "destination": "research/pnp/carriers/probes/PNP_MINIMAL_LINEAR_BOOLEAN_SEAM_PAIR_CHECK_2026-09-26.py",
+      "baseline_sha256": "50716066cae366d8564f4f604be197c86597b40c3589b2f3d4a0febb11eab51f",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "50716066cae366d8564f4f604be197c86597b40c3589b2f3d4a0febb11eab51f",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_MINIMUM_SURPLUS_FORK_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_MINIMUM_SURPLUS_FORK_2026-09-26.md",
+      "baseline_sha256": "9ec70960faef317f50693b5f8637713615ab2ee8ce07f7d90a71526bd541d49e",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "4404aeac294f8424ca230ce405abd57994cf6497fa64e4ab458d006c129ab746",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_POSITIVE_CIRCUIT_LOCAL_DECISION_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_POSITIVE_CIRCUIT_LOCAL_DECISION_2026-09-26.md",
+      "baseline_sha256": "a606bf59afacda11737b185f5f22c9648435edd27b9ba31d9fad609d82ad1295",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "775766a73eec5f3b41e2310e58668dfb21ca4dfe7b0316b152765d943f8cd36d",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_POSITIVE_CIRCUIT_SIGNATURE_COMPLETENESS_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_POSITIVE_CIRCUIT_SIGNATURE_COMPLETENESS_2026-09-26.md",
+      "baseline_sha256": "c4baf33e7645f43ab8edd6c276bf1039945e3375fe6efda3ab499163c9f8c037",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "99107b84f88eb22c5e215dd1ae55531054ebc0d0a1bd565d69f265c89c1e9a16",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_R5_PLUS1_ADDITIVE_BVE_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_R5_PLUS1_ADDITIVE_BVE_2026-09-26.md",
+      "baseline_sha256": "ff61b44c9a1891eac3d1189ad00c055c229e91631024b8ea884f6a51f4984392",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "4ccbfe254e1f64079df397a2cd2e997b1355d998d28c764adb35254f165915d2",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_R5_R6_SURPLUS_FLOOR_2X3_CROWN_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_R5_R6_SURPLUS_FLOOR_2X3_CROWN_2026-09-26.md",
+      "baseline_sha256": "830c7ae0029a8dc62cc6452c87bcaa499123962ffec96ceb1100fd83fb27daca",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "9e74c53e89edaeff2428bddde7f417232cf2b6e9ffb04586e0292daa1df0f26e",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_SEMANTIC_INTERSECTION_QUOTIENT_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_SEMANTIC_INTERSECTION_QUOTIENT_2026-09-26.md",
+      "baseline_sha256": "d2b94dd0abbb6032e71ecfccbc4ec3bf5ce8ba7eacbeacb1f5aca252aee345d0",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "d2b94dd0abbb6032e71ecfccbc4ec3bf5ce8ba7eacbeacb1f5aca252aee345d0",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_SEMANTIC_INTERSECTION_QUOTIENT_CHECK_2026-09-26.py",
+      "destination": "research/pnp/carriers/probes/PNP_SEMANTIC_INTERSECTION_QUOTIENT_CHECK_2026-09-26.py",
+      "baseline_sha256": "883141ddbf0878c79075c818579ec3d2fbdf31b0718483a5a5abd67b83667798",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "883141ddbf0878c79075c818579ec3d2fbdf31b0718483a5a5abd67b83667798",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_SEMANTIC_INTERSECTION_QUOTIENT_EVIDENCE_2026-09-26.json",
+      "destination": "PNP_SEMANTIC_INTERSECTION_QUOTIENT_EVIDENCE_2026-09-26.json",
+      "baseline_sha256": "66be8b411b18edf87d676e9787e85d329da8caa226dd027635ddb1eece8e5794",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "66be8b411b18edf87d676e9787e85d329da8caa226dd027635ddb1eece8e5794",
+      "content_changed": false
+    },
+    {
+      "source": "PNP_SIGNED_BINARY_CLUSTER_CARRIER_2026-09-25.md",
+      "destination": "research/pnp/carriers/docs/PNP_SIGNED_BINARY_CLUSTER_CARRIER_2026-09-25.md",
+      "baseline_sha256": "ae015297a7be0debf4df7b04da52162bd1bb165cd01db24bdfdd2f6fc547f170",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "5696012d69b1c26876e0ccbd1e9462a1a4db5bebf3912d1e8bc97157f640fae9",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_SURPLUS_AUTARKY_OBJECT_REDUCTION_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_SURPLUS_AUTARKY_OBJECT_REDUCTION_2026-09-26.md",
+      "baseline_sha256": "4a7bfaa0475df820ef1a4732d8b388a48bea0febd00847d4f4cc9395083c80f9",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "141c78a964b8f7c736a0a3c30dd51206fb4cddb84fd5d89b0904b0ed11ec8b5c",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_SURPLUS_INFLATION_COUNTERPROBE_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_SURPLUS_INFLATION_COUNTERPROBE_2026-09-26.md",
+      "baseline_sha256": "cce71289d32b83dc8d3edb4ccb8eaf0eff1560b9a0973c7a4428a0be07f83ff7",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "489618df1e7672c60340542d310baba76cff37034bdcaa2e8a0f038b6fed5ace",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_SURPLUS_INFLATION_UNIFORM_EDGE_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_SURPLUS_INFLATION_UNIFORM_EDGE_2026-09-26.md",
+      "baseline_sha256": "645c9d51297c78aa0049db21ac0030045a3b2839eebdaaf810218feb55eef579",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "5c2fad762edc94e530181419b36a19b7325538db0c2eff1880cc014c7799101d",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_SYNCHRONIZATION_HANDOFF_002_2026-09-26.md",
+      "destination": "research/pnp/handoffs/PNP_SYNCHRONIZATION_HANDOFF_002_2026-09-26.md",
+      "baseline_sha256": "7e871afa80c50c415a66551adb9066c6047d817af4ea6bf8ae0f47f809433d08",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "5efa1a56f4485ead331d93fdf50290f6ddbbf295ee9fb3cab273e6870f0e7088",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_SYNCHRONIZATION_HANDOFF_003_2026-09-26.md",
+      "destination": "research/pnp/handoffs/PNP_SYNCHRONIZATION_HANDOFF_003_2026-09-26.md",
+      "baseline_sha256": "fc3c06a291635ec2fab96418596439162610d601e535f9fd2c5881c3c5d1c6e6",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "ba9adf7d13f7d3736dd93cc04db9fecbc8b35f200849edc0215a52d16bdbc035",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_SYNCHRONIZATION_HANDOFF_004_2026-09-26.md",
+      "destination": "research/pnp/handoffs/PNP_SYNCHRONIZATION_HANDOFF_004_2026-09-26.md",
+      "baseline_sha256": "b12135dee0cca83194602252d53a15e582640c0132b8961b608e97d33782b392",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "27c989dbc8f7c0466e2a3a826ef236a726983d39c7bac2b658b69cfc0fc4eef4",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_SYNCHRONIZATION_PACKET_2026-09-26.md",
+      "destination": "research/pnp/handoffs/PNP_SYNCHRONIZATION_PACKET_2026-09-26.md",
+      "baseline_sha256": "ea0a2e3957f2b80ce8df44d7ebb76e2aacd4c3fa2878191e6a249f02201a5588",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "5f3c6e20fc9ff99304afebe57890a3bfdaac613acd8559e40bd3c0360d66e697",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_TIGHT_BLOCK_BALANCE_INHERITANCE_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_TIGHT_BLOCK_BALANCE_INHERITANCE_2026-09-26.md",
+      "baseline_sha256": "d2c4e70c4fbdecc7b6f629fc7fde252dd78667a5c5cea431fa22ee7907168832",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "db6ab04e443a3162bff8ff18bfa55a1dc3c27be3ca96700ac3d37cd431606800",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_TIGHT_BLOCK_COFACTOR_DEFICIENCY_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_TIGHT_BLOCK_COFACTOR_DEFICIENCY_2026-09-26.md",
+      "baseline_sha256": "e5e8f103a303180abefef58ae1bbf52cefb5f7cfefef32aa8665134974867210",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "7615843ca98b0e0ab79ddebfeed514dadbc0196c60745bd62146ceb2fdb73e31",
+      "content_changed": true
+    },
+    {
+      "source": "PNP_TIGHT_BLOCK_INTERFACE_LIFT_2026-09-26.md",
+      "destination": "research/pnp/carriers/docs/PNP_TIGHT_BLOCK_INTERFACE_LIFT_2026-09-26.md",
+      "baseline_sha256": "823b8bd126ca732f3675266d407959892c7be52a65bb303c9da3e6f1527adc2b",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "3ca6dc28ff83e5df211d4a6f82b4352717a8cf21d2af29301f18d7ccf722249e",
+      "content_changed": true
+    },
+    {
+      "source": "PUBLIC_STATUS.json",
+      "destination": "PUBLIC_STATUS.json",
+      "baseline_sha256": "6126355957df235b265973408a1ceacb72c186398e20a9468ccbfa7e395f5163",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "6126355957df235b265973408a1ceacb72c186398e20a9468ccbfa7e395f5163",
+      "content_changed": false
+    },
+    {
+      "source": "PUBLISHING.md",
+      "destination": "PUBLISHING.md",
+      "baseline_sha256": "36c5cd518da5f74df260df19c6f3d6ce7de7dd110cceee3ed5092220c97ad0f3",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "36c5cd518da5f74df260df19c6f3d6ce7de7dd110cceee3ed5092220c97ad0f3",
+      "content_changed": false
+    },
+    {
+      "source": "README.md",
+      "destination": "README.md",
+      "baseline_sha256": "637ecaa43c2b5319431f672d6b668b9fad11e10a586144360b067bc8ec7e2176",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "d0076dc0e336b2a67df9b1b17d116dbadba68ebff525f403d41fc6094cd4ce51",
+      "content_changed": true
+    },
+    {
+      "source": "RECENT_WORK_2026-09-25.md",
+      "destination": "docs/updates/RECENT_WORK_2026-09-25.md",
+      "baseline_sha256": "b7a6fdc9343cf6791526e94abbfbe767331089a5e96bd56643807244b796e04e",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "2cf48d3e671cc5c8aa652553c76b3465e359ad82a82c397d1f5dc9990b9de0ca",
+      "content_changed": true
+    },
+    {
+      "source": "REDOGIT.md",
+      "destination": "REDOGIT.md",
+      "baseline_sha256": "3c8a72bd73d7ad722f5c47bf69cb725b14efe2518c55321cfb1ea7fba2e0a6d8",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "3c8a72bd73d7ad722f5c47bf69cb725b14efe2518c55321cfb1ea7fba2e0a6d8",
+      "content_changed": false
+    },
+    {
+      "source": "REDOGIT.schema.json",
+      "destination": "REDOGIT.schema.json",
+      "baseline_sha256": "84b0cf10ff28713a3be4ad0c4b827bc74852838069d62e638ed09334d3ec5454",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "84b0cf10ff28713a3be4ad0c4b827bc74852838069d62e638ed09334d3ec5454",
+      "content_changed": false
+    },
+    {
+      "source": "RESEARCH_PRODUCTION.md",
+      "destination": "docs/navigation/RESEARCH_PRODUCTION.md",
+      "baseline_sha256": "03bdc6aad707700cc8f56450692d97edecc2559dd8d217b2b3e9decf0d521c67",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "995e86754d585e7c521295e7fa095109bb26176c935fa6148d8f54aa026bb896",
+      "content_changed": true
+    },
+    {
+      "source": "RESEARCH_PRODUCTION_FEDERATION.md",
+      "destination": "RESEARCH_PRODUCTION_FEDERATION.md",
+      "baseline_sha256": "9fa4f563957f07b28fac7d1c54691f749150521473ad075dfdcc430abf6a24a2",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Historical navigation preserved at original path",
+      "content_sha256": "9fa4f563957f07b28fac7d1c54691f749150521473ad075dfdcc430abf6a24a2",
+      "content_changed": false
+    },
+    {
+      "source": "RMAL_PNP_LIVE_DESIGN_2026-09-25.md",
+      "destination": "research/pnp/carriers/docs/RMAL_PNP_LIVE_DESIGN_2026-09-25.md",
+      "baseline_sha256": "fbf1131526a9cad3df9d8a14f040cbb9bebbc3417ef686b6da5c21031b1ec4b7",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "fbb71a54586c6fc652db7e86086e06813203e81b7634ee0191b560ec0a337511",
+      "content_changed": true
+    },
+    {
+      "source": "RMAL_RESEARCH_ORIENTATION_2026-09-25.md",
+      "destination": "docs/orientation/RMAL_RESEARCH_ORIENTATION_2026-09-25.md",
+      "baseline_sha256": "fcfdc4815a6285ce33a2b6474721e409f7e9c164201dc808ccf8347fffeea1b4",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "f1f4e03324689aa98b7e4f13a9dc70429c8b322fcc98107655fda5451204332f",
+      "content_changed": true
+    },
+    {
+      "source": "RMAO_WORLD_SUCCESSOR_2026-09-18.md",
+      "destination": "docs/orientation/RMAO_WORLD_SUCCESSOR_2026-09-18.md",
+      "baseline_sha256": "e19a4da84db64c35179164f9080fee432d2c2fd44a856e9a40d9ccfc63071909",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "e19a4da84db64c35179164f9080fee432d2c2fd44a856e9a40d9ccfc63071909",
+      "content_changed": false
+    },
+    {
+      "source": "WORK_INDEX.md",
+      "destination": "docs/navigation/WORK_INDEX.md",
+      "baseline_sha256": "a961c2e300199a2b228fa3e724cae52c04ee0877f44e3f00721cd251f87d4ca0",
+      "action": "move",
+      "protected_content": false,
+      "reason": "Reviewed topic/role destination; dependencies validated separately",
+      "content_sha256": "08b1a6f4d66fd78f535fdd2ae9535c1f7c325791eac3661ccfee21a195e2ee52",
+      "content_changed": true
+    },
+    {
+      "source": "active-federation.html",
+      "destination": "active-federation.html",
+      "baseline_sha256": "fc629f1a84877542922c3538a829c058db68a7a5483d3b81864348e6b85c3b17",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "a9a292ed8a5b91d5586dec6d7a3fee6527a784a3a5f1557a1ffecbf717414a0a",
+      "content_changed": true
+    },
+    {
+      "source": "active-federation.json",
+      "destination": "active-federation.json",
+      "baseline_sha256": "17a975213f246d1337bfe2229a4d8eea286cd20305476110eb2fcbfa2893441d",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "17a975213f246d1337bfe2229a4d8eea286cd20305476110eb2fcbfa2893441d",
+      "content_changed": false
+    },
+    {
+      "source": "active-projects.html",
+      "destination": "active-projects.html",
+      "baseline_sha256": "c90a9fc725ac54028f97ef37324cfbe0fabb1c38e5e918ded20eab4ada783be1",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "ff2d167aa2ba40697906425056d2f8c165b76a29028e5df216768a719e59d249",
+      "content_changed": true
+    },
+    {
+      "source": "active-projects.json",
+      "destination": "active-projects.json",
+      "baseline_sha256": "131c03f14a23045f5b2108998ce89e9f421a009198f35cecee2ed5ea8f0b0a6d",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "131c03f14a23045f5b2108998ce89e9f421a009198f35cecee2ed5ea8f0b0a6d",
+      "content_changed": false
+    },
+    {
+      "source": "decision-field-federation-v1.json",
+      "destination": "decision-field-federation-v1.json",
+      "baseline_sha256": "225fa595f4279c6f443303151d39519d01a4d493ac6d0bc84a878fe3628b3ad6",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "225fa595f4279c6f443303151d39519d01a4d493ac6d0bc84a878fe3628b3ad6",
+      "content_changed": false
+    },
+    {
+      "source": "decision-field-function-registry-v1.json",
+      "destination": "decision-field-function-registry-v1.json",
+      "baseline_sha256": "deb1ab0e6f97e97e619469d4ddab5a63d0bb5a34b9f2ee31307a80b773c57298",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "deb1ab0e6f97e97e619469d4ddab5a63d0bb5a34b9f2ee31307a80b773c57298",
+      "content_changed": false
+    },
+    {
+      "source": "docs/.nojekyll",
+      "destination": "docs/.nojekyll",
+      "baseline_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "action": "retain",
+      "protected_content": true,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "content_changed": false
+    },
+    {
+      "source": "docs/about.html",
+      "destination": "docs/about.html",
+      "baseline_sha256": "e0db80c5945f4d74142e142d5bd1a4702cc25e8b15a423ac823c0a1bc8c8d979",
+      "action": "retain",
+      "protected_content": true,
+      "reason": "Selected publication HTML preserved byte-for-byte",
+      "content_sha256": "e0db80c5945f4d74142e142d5bd1a4702cc25e8b15a423ac823c0a1bc8c8d979",
+      "content_changed": false
+    },
+    {
+      "source": "docs/condensed-wisdom.html",
+      "destination": "docs/condensed-wisdom.html",
+      "baseline_sha256": "8244e9e047eea1798dc33efa6e3eafc5f171ce40f1ea28148046f7c3d3aaefe6",
+      "action": "retain",
+      "protected_content": true,
+      "reason": "Selected publication HTML preserved byte-for-byte",
+      "content_sha256": "8244e9e047eea1798dc33efa6e3eafc5f171ce40f1ea28148046f7c3d3aaefe6",
+      "content_changed": false
+    },
+    {
+      "source": "docs/dream-to-action/PUBLISHING.md",
+      "destination": "docs/dream-to-action/PUBLISHING.md",
+      "baseline_sha256": "bb5d71596c590e0b484371d577f02cb9f722d46430e1a99e9fd3f5ab7090a66c",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "bb5d71596c590e0b484371d577f02cb9f722d46430e1a99e9fd3f5ab7090a66c",
+      "content_changed": false
+    },
+    {
+      "source": "docs/dream-to-action/SOURCE.json",
+      "destination": "docs/dream-to-action/SOURCE.json",
+      "baseline_sha256": "e1e000fdc4261bcd262fd24ee48219cb01388c0fd21d962776627430e6fd05cb",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "e1e000fdc4261bcd262fd24ee48219cb01388c0fd21d962776627430e6fd05cb",
+      "content_changed": false
+    },
+    {
+      "source": "docs/dream-to-action/index.html",
+      "destination": "docs/dream-to-action/index.html",
+      "baseline_sha256": "231fdadb14093df1028abe015f3c4d583b1031da5ae03048abff5244c3eac807",
+      "action": "retain",
+      "protected_content": true,
+      "reason": "Selected publication HTML preserved byte-for-byte",
+      "content_sha256": "231fdadb14093df1028abe015f3c4d583b1031da5ae03048abff5244c3eac807",
+      "content_changed": false
+    },
+    {
+      "source": "docs/index.html",
+      "destination": "docs/index.html",
+      "baseline_sha256": "41f98ddf91c87f4dff1a9af17c8a2a1b1402c9f87cfac252a5c7ac5aa5a97c6a",
+      "action": "retain",
+      "protected_content": true,
+      "reason": "Selected publication HTML preserved byte-for-byte",
+      "content_sha256": "41f98ddf91c87f4dff1a9af17c8a2a1b1402c9f87cfac252a5c7ac5aa5a97c6a",
+      "content_changed": false
+    },
+    {
+      "source": "docs/live-design.html",
+      "destination": "docs/live-design.html",
+      "baseline_sha256": "787ef9586ab1162848807e58e1e794a7544b626820072a8b38a585a6aa97fb9a",
+      "action": "retain",
+      "protected_content": true,
+      "reason": "Selected publication HTML preserved byte-for-byte",
+      "content_sha256": "787ef9586ab1162848807e58e1e794a7544b626820072a8b38a585a6aa97fb9a",
+      "content_changed": false
+    },
+    {
+      "source": "docs/recent-work.html",
+      "destination": "docs/recent-work.html",
+      "baseline_sha256": "7a6bbd257bf1538aaffe9999ce465545582113c21f86d125471a7e90b0245a03",
+      "action": "retain",
+      "protected_content": true,
+      "reason": "Selected publication HTML preserved byte-for-byte",
+      "content_sha256": "7a6bbd257bf1538aaffe9999ce465545582113c21f86d125471a7e90b0245a03",
+      "content_changed": false
+    },
+    {
+      "source": "docs/superpowers/specs/2026-09-30-repository-organization-design.md",
+      "destination": "docs/superpowers/specs/2026-09-30-repository-organization-design.md",
+      "baseline_sha256": "b5ef657f0ebf4d4352d7f5957bce78f8cbf12ea59715c4d1400fdfe6d5dcb59b",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "b5ef657f0ebf4d4352d7f5957bce78f8cbf12ea59715c4d1400fdfe6d5dcb59b",
+      "content_changed": false
+    },
+    {
+      "source": "docs/superpowers/specs/2026-09-30-repository-organization/file-layout-proposal.json",
+      "destination": "docs/superpowers/specs/2026-09-30-repository-organization/file-layout-proposal.json",
+      "baseline_sha256": "ec6d70dbb4a96c40e2923d4b5cf04df0f42ae66275a9d42045a7d7224f909fa5",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "ec6d70dbb4a96c40e2923d4b5cf04df0f42ae66275a9d42045a7d7224f909fa5",
+      "content_changed": false
+    },
+    {
+      "source": "docs/superpowers/specs/2026-09-30-repository-organization/workspace-groups.json",
+      "destination": "docs/superpowers/specs/2026-09-30-repository-organization/workspace-groups.json",
+      "baseline_sha256": "7e6c3cd5002ebfa2e404de8022cb19efa38d871372cf103fe3dfcaad2f5088f9",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "7e6c3cd5002ebfa2e404de8022cb19efa38d871372cf103fe3dfcaad2f5088f9",
+      "content_changed": false
+    },
+    {
+      "source": "goal-topology-2026-09-15.json",
+      "destination": "goal-topology-2026-09-15.json",
+      "baseline_sha256": "60a337496726adc6379883df8b72ec7ffa8e4448033b90821e729eec103bf661",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "60a337496726adc6379883df8b72ec7ffa8e4448033b90821e729eec103bf661",
+      "content_changed": false
+    },
+    {
+      "source": "history-playground.html",
+      "destination": "history-playground.html",
+      "baseline_sha256": "d45e444c624a3fdebeea0861d821362903fa4e2893da433496ee9186ed7452e8",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "8d5ad11ad4572f111706acb1befa120e89b32070b6c8e35076dfdd25d7f5775c",
+      "content_changed": true
+    },
+    {
+      "source": "history-playground.json",
+      "destination": "history-playground.json",
+      "baseline_sha256": "9b1e421dcb89bb0010b3300c0cec6f6370ba3f075160882a28f14e66cd6b06bb",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "9b1e421dcb89bb0010b3300c0cec6f6370ba3f075160882a28f14e66cd6b06bb",
+      "content_changed": false
+    },
+    {
+      "source": "index.html",
+      "destination": "index.html",
+      "baseline_sha256": "2acbec4f71f29e73c5acc2cb7fd0114383841f43954f024cb8e904a6360302ff",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "ad7579eed64f8990dbcb6715b75acecb2809513ab0efdc06a4bcf240c7a529d4",
+      "content_changed": true
+    },
+    {
+      "source": "libraries-of-libraries.rmal",
+      "destination": "libraries-of-libraries.rmal",
+      "baseline_sha256": "a6df0717f883d6179b8f030d7518c82835f59f28207ef56378777795a394d078",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "a6df0717f883d6179b8f030d7518c82835f59f28207ef56378777795a394d078",
+      "content_changed": false
+    },
+    {
+      "source": "plan-authority/README.md",
+      "destination": "plan-authority/README.md",
+      "baseline_sha256": "b07b420dbb32ab991b7d286a9c9fb6dc2a76e4cad3cbb2186bd2db589648fc86",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "b07b420dbb32ab991b7d286a9c9fb6dc2a76e4cad3cbb2186bd2db589648fc86",
+      "content_changed": false
+    },
+    {
+      "source": "plan-authority/example-actions.json",
+      "destination": "plan-authority/example-actions.json",
+      "baseline_sha256": "a290680cc77184d3cee16dea7baf5d603e8868a202fb9ed0494d316f0aaad81d",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "a290680cc77184d3cee16dea7baf5d603e8868a202fb9ed0494d316f0aaad81d",
+      "content_changed": false
+    },
+    {
+      "source": "plan-authority/example-overlay.json",
+      "destination": "plan-authority/example-overlay.json",
+      "baseline_sha256": "0779353f1d4cd86b952293f548fc94c3919b763118d6a656d93f33acb07aadc5",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "0779353f1d4cd86b952293f548fc94c3919b763118d6a656d93f33acb07aadc5",
+      "content_changed": false
+    },
+    {
+      "source": "redogit.json",
+      "destination": "redogit.json",
+      "baseline_sha256": "273f3465bcc2d7bc7e0174ee71ef04b9426460243104b41d3b23ba29838b0169",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "273f3465bcc2d7bc7e0174ee71ef04b9426460243104b41d3b23ba29838b0169",
+      "content_changed": false
+    },
+    {
+      "source": "research-production-map.json",
+      "destination": "research-production-map.json",
+      "baseline_sha256": "eefd8987ee4b182373fa0b4c464f31294f0f827b101dddd3467c22bb7cc72394",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "eefd8987ee4b182373fa0b4c464f31294f0f827b101dddd3467c22bb7cc72394",
+      "content_changed": false
+    },
+    {
+      "source": "research-production.html",
+      "destination": "research-production.html",
+      "baseline_sha256": "86f38c6d2e1aeff89377a7368c61845d183fa302347aff50bbde65baf73799dc",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "aef43a9e99b21adabb270c3b0664af177eb2fdb005deebefdba6f4c3a3e47d39",
+      "content_changed": true
+    },
+    {
+      "source": "research-production.json",
+      "destination": "research-production.json",
+      "baseline_sha256": "1d61e717c19716c561fe613c224532da4c7ff5db517f1997b387be840c4eeef0",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Root contract/record preserved byte-for-byte; current locator provided in catalog",
+      "content_sha256": "1d61e717c19716c561fe613c224532da4c7ff5db517f1997b387be840c4eeef0",
+      "content_changed": false
+    },
+    {
+      "source": "tests/test_plan_authority.py",
+      "destination": "tests/test_plan_authority.py",
+      "baseline_sha256": "01c9a3346e1414611448b16e9beaf02ea7cc62135b3a6152c3663cf747f7a0b5",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "01c9a3346e1414611448b16e9beaf02ea7cc62135b3a6152c3663cf747f7a0b5",
+      "content_changed": false
+    },
+    {
+      "source": "tools/finalize_dream_publication.py",
+      "destination": "tools/finalize_dream_publication.py",
+      "baseline_sha256": "8f8468eec22ee2a2152cf8f1b48f1c8ead725e22b0496d9edb662ebbf5c98809",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "8f8468eec22ee2a2152cf8f1b48f1c8ead725e22b0496d9edb662ebbf5c98809",
+      "content_changed": false
+    },
+    {
+      "source": "tools/plan_authority.py",
+      "destination": "tools/plan_authority.py",
+      "baseline_sha256": "0dd15e18f91635aa0d2ce4b8dca09f13dc3010749e2c3a7ce800b11c1e69bdbf",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "0dd15e18f91635aa0d2ce4b8dca09f13dc3010749e2c3a7ce800b11c1e69bdbf",
+      "content_changed": false
+    },
+    {
+      "source": "tools/publish_dream_pages.py",
+      "destination": "tools/publish_dream_pages.py",
+      "baseline_sha256": "8eff8ec1c3ec849779a21885c553487b469eb9c75c110ca3f9d2229bce7a919d",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "8eff8ec1c3ec849779a21885c553487b469eb9c75c110ca3f9d2229bce7a919d",
+      "content_changed": false
+    },
+    {
+      "source": "tools/redogit.py",
+      "destination": "tools/redogit.py",
+      "baseline_sha256": "d9e930e9a643daf35298257515130f861ca86e156dcc861fcb77380f14e4fbd7",
+      "action": "retain",
+      "protected_content": false,
+      "reason": "Existing hierarchy or operational path retained",
+      "content_sha256": "d9e930e9a643daf35298257515130f861ca86e156dcc861fcb77380f14e4fbd7",
+      "content_changed": false
+    }
+  ],
+  "schema": "repository-organization/executed-migration/v1",
+  "state": "verified",
+  "moved_count": 107,
+  "retained_count": 65,
+  "compatibility_aliases": [],
+  "verification_report": "docs/organization/verification.json"
+}

@@ -1,0 +1,93 @@
+{
+  "schema": "repository-organization/workspace-groups/v1",
+  "status": "design-only",
+  "hosted_projects_created": false,
+  "repository_files_moved": false,
+  "existing_repositories_retained": true,
+  "shared_paths_do_not_transfer_ownership": true,
+  "constraints": {
+    "DnD": {
+      "organization_access": "reference-only",
+      "planned_additions": [],
+      "future_additions": "Only content specifically related to RMAL or an existing DnD project area",
+      "moves_edits_renames_deletions": "excluded",
+      "dependent_moves_elsewhere": "Preserve compatibility outside DnD or defer the move"
+    }
+  },
+  "workspaces": [
+    {
+      "id": "rmal",
+      "name": "RMAL",
+      "purpose": "Language, compiler, native integrations, and existing RMAL project modules",
+      "repositories": ["DnD"],
+      "source_roots": ["DnD/include", "DnD/src", "DnD/spec", "DnD/projects"],
+      "entry_points": ["DnD/README.md", "DnD/CURRENT.md", "DnD/README_COMPILER.md", "DnD/projects/README.md"],
+      "organization_action": "Create entry points outside DnD; reference existing paths without changing its contents"
+    },
+    {
+      "id": "pnp-dean",
+      "name": "P vs NP / Dean",
+      "purpose": "Solvers, probes, proofs, contracts, and evidence for the declared research scope",
+      "repositories": ["redogit", "Other-Projects-", "conscience64"],
+      "source_roots": ["Other-Projects-/P versus NP Repair Lab", "conscience64/research/pnp"],
+      "include_patterns": ["redogit/PNP_*", "redogit/RMAL_PNP_LIVE_DESIGN_*.md"],
+      "entry_points": ["redogit/PNP_CURRENT_PROBLEM_MAP_2026-09-30.md", "Other-Projects-/P versus NP Repair Lab/README.md"],
+      "organization_action": "Index current scope and evidence separately; do not promote open research claims"
+    },
+    {
+      "id": "hodge",
+      "name": "Hodge",
+      "purpose": "Correspondences, computations, research records, and bounded Hodge tooling",
+      "repositories": ["conscience64", "Other-Projects-"],
+      "source_roots": ["conscience64/research/hodge", "Other-Projects-/Hodge Span Lab", "Other-Projects-/Hodge Compass API"],
+      "entry_points": ["conscience64/research/hodge/README.md", "conscience64/research/projects/hodge-conjecture.md", "Other-Projects-/Hodge Span Lab/README.md"],
+      "organization_action": "Keep proof, source, computational evidence, and current state distinguishable"
+    },
+    {
+      "id": "conscience64-platform",
+      "name": "Conscience64",
+      "purpose": "Platform, recovery, navigation, analytics, and local model tooling",
+      "repositories": ["conscience64"],
+      "source_roots": ["conscience64/navigation", "conscience64/analytics", "conscience64/coordinate-space", "conscience64/image-society", "conscience64/public-testbed", "conscience64/infra", "conscience64/tools"],
+      "entry_points": ["conscience64/README.md", "conscience64/API.md", "conscience64/SITE_DATA_RECOVERY.md", "conscience64/research/projects/model-experiments.md"],
+      "organization_action": "Preserve browser routes, encoded carriers, approval records, and projection source boundaries"
+    },
+    {
+      "id": "games",
+      "name": "Games",
+      "purpose": "Existing game projects and their local tooling",
+      "repositories": ["conscience64", "Other-Projects-"],
+      "source_roots": ["conscience64/play", "Other-Projects-/Decision Field MMORPG", "Other-Projects-/RMAOS MiniGX", "Other-Projects-/android/w114-perturbation-lab"],
+      "entry_points": ["conscience64/play/README.md", "conscience64/play/neon-veil/README.md", "Other-Projects-/Decision Field MMORPG/README.md", "Other-Projects-/RMAOS MiniGX/README.md"],
+      "organization_action": "Keep project boundaries and intentional visibility; no expansion of public catalogs or publication scope"
+    },
+    {
+      "id": "language-carriers",
+      "name": "Language and carriers",
+      "purpose": "GSFL, SPrime, compression, Cross-Carrier, operator methods, and related labs",
+      "repositories": ["Other-Projects-", "conscience64", "redogit"],
+      "source_roots": ["Other-Projects-/Generalized Semantic Fitting Language", "Other-Projects-/SPrime Search", "Other-Projects-/S1024 Compression Lab", "Other-Projects-/S1 Models Lab", "Other-Projects-/Context Discovery", "Other-Projects-/Blank Page Lab", "Other-Projects-/Decision Field Operator Lab", "conscience64/research/cross-carrier"],
+      "include_patterns": ["redogit/GSFL_*", "redogit/DECISION_FIELD_*"],
+      "entry_points": ["Other-Projects-/Generalized Semantic Fitting Language/README.md", "Other-Projects-/SPrime Search/README.md", "Other-Projects-/Decision Field Operator Lab/README.md", "conscience64/research/projects/cross-carrier-wave.md", "conscience64/research/projects/operator-moonshot.md"],
+      "organization_action": "Keep distinct implementations and evidence local to each project; document shared references"
+    },
+    {
+      "id": "archives-knowledge",
+      "name": "Archives and knowledge",
+      "purpose": "Human Expression Archive, Knowledge Garden, Orbit, and source recovery",
+      "repositories": ["Other-Projects-", "conscience64"],
+      "source_roots": ["Other-Projects-/Human Expression Archive", "Other-Projects-/knowledge-garden", "Other-Projects-/ChatGPT and Conscience", "conscience64/knowledge", "conscience64/history", "conscience64/research/source-ingress"],
+      "entry_points": ["Other-Projects-/Human Expression Archive/README.md", "Other-Projects-/knowledge-garden/README.md", "Other-Projects-/ChatGPT and Conscience/README.md", "conscience64/research/projects/orbit-library.md", "conscience64/research/projects/historical-recovery.md"],
+      "organization_action": "Preserve source locks, historical bytes, access boundaries, and reconstruction labels"
+    },
+    {
+      "id": "portfolio",
+      "name": "Portfolio",
+      "purpose": "Cross-project navigation, coordination, and planning",
+      "repositories": ["redogit", "Other-Projects-", "conscience64"],
+      "source_roots": ["redogit/plan-authority", "redogit/docs", "Other-Projects-/federation", "conscience64/research/projects"],
+      "entry_points": ["redogit/README.md", "redogit/WORK_INDEX.md", "redogit/ACTIVE_PROJECTS.md", "conscience64/research/projects/README.md", "Other-Projects-/PROJECT_ROUTING.md"],
+      "organization_action": "Maintain navigation across independent project homes; add no generic metadata to DnD"
+    }
+  ]
+}
