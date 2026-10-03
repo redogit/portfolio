@@ -1,5 +1,7 @@
 # Portfolio
 
+> **Public page:** https://redogit.github.io/portfolio/ · **Main / About:** https://redogit.github.io/redogit/
+
 Cross-project navigation, coordination, and planning.
 
 This standalone export preserves original source paths and bytes. Necessary cross-project dependencies are copied with explicit provenance; ownership and historical evidence remain with their source projects.
